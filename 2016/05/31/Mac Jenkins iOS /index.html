@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="zh-Hans"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><title>在 Mac mini 上架设 Jenkins 服务器来运行 iOS 测试</title><link rel="stylesheet" href="/css/layout.css">
+<link rel="stylesheet" href="/css/main.css"><link rel="shortcut icon" href="/img/header.jpg"></head><body><header class="base-menu"><div class="menu-wrapper"><div class="menu-layout-bg"></div><nav class="menu-content"><ul class="menu-list"><li class="menu-item"><a href="/" class="menu-link">Coding的小学生</a></li><li class="menu-item"><a href="/archives" class="menu-link">目录</a></li><li class="menu-item"><a href="/about" class="menu-link">关于</a></li></ul></nav></div></header><header class="base-mobile-menu"><div class="mobile-menu-wrapper"><div class="menu-layout-bg"></div><nav class="menu-content"><ul class="menu-list"><li class="menu-item"><a href="/" class="menu-link">Coding的小学生</a></li><li class="menu-item"><a href="/archives" class="menu-link">目录</a></li><li class="menu-item"><a href="/about" class="menu-link">关于</a></li></ul></nav><div id="mobile-menu-toggle" class="toggle-menu"><span class="menu-bar"></span><span class="menu-bar"> </span><span class="menu-bar"></span></div></div></header><div class="base-content"><div class="base-content-main"><article class="article-main"><h1 class="article-title">在 Mac mini 上架设 Jenkins 服务器来运行 iOS 测试</h1><div class="article-meta"><p class="meta-item meta-time"><span class="meta-item-title">发表于: </span>2016-05-31</p><p class="meta-item meta-category"><span class="meta-item-title">分类于: </span><a href="/categories/技术/" target="_blank" class="category-link">技术</a></p></div><div class="article-content"><p>##<a href="http://linjunpop.logdown.com/posts/162202-set-up-jenkins-server-on-the-mac-mini-to-run-ios-tests" target="_blank" rel="external">在<br> Mac mini 上架设 Jenkins 服务器来运行 iOS 测试</a></p>
+<p>###安装配置 Jenkins<br>先使用 homebrew 安装 Jenkins<br>    $ brew install jenkins</p>
+<p>然后链接 launchd 配置文件<br>    $ ln -sfv /usr/local/opt/jenkins/*.plist ~/Library/LaunchAgents</p>
+<p>可以更改此 plist 来进行一些自定义的配置，详细列表可以参考<a href="https://wiki.jenkins-ci.org/display/JENKINS/Starting+and+Accessing+Jenkins" target="_blank" rel="external">https://wiki.jenkins-ci.org/display/JENKINS/Starting+and+Accessing+Jenkins</a></p>
+<blockquote>
+<p>如果要其他机器也可以访问，把 plist 里的 <code>&lt;string&gt;--httpListenAddress=127.0.0.1&lt;/string&gt;</code> 删掉即可<br>修改完后，在终端执行<br>    $ launchctl load ~/Library/LaunchAgents/homebrew.mxcl.jenkins.plist</p>
+</blockquote>
+<p>即可启动 Jenkins<br>接着用浏览器访问 <code>localhost:8080</code>（默认配置），就可以看到<br> Jenkins 的 web 界面了</p>
+<p>###集成 GitHub 的 Pull Request<br>在 GitHub 上有新的 Pull Request 的时候，可以自动来跑测试，然后把结果提交给 GitHub 上</p>
+<p>####安装插件<br>在左侧的导航找到 <code>Manage
+ Jenkins</code>，进到管理界面，然后找到 <code>Manage
+ Plugins</code> 进入插件管理界面，我们安装几个必须的插件：</p>
+<ul>
+<li>GitHub plugin <a href="https://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin" target="_blank" rel="external">https://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin</a></li>
+<li>GitHub Pull Request Builder <a href="https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin" target="_blank" rel="external">https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin</a></li>
+</ul>
+<p>####Job 跑起来<br>安装完插件之后，我们可以开始建立 Job，在首页的左侧找到 New Job 进入新建 Job 的界面，选择 <code>Build
+ a free-style software project</code><br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/vDclj1BQR9qvMPAhQhdG_Screen%20Shot%202013-11-25%20at%202.00.36%20PM.png" alt="Screen Shot 2013-11-25 at 2.00.36 PM.png"><br>点击 OK 之后，进入配置界面，找到 Source Code Management，按照下图，选择 Git，然后填入 Name 为 <code>origin</code>，Refspec<br> 填入<code>+refs/pull/*:refs/remotes/origin/pr/*</code>，Branch<br> Specifier 填入<code>${sha1}</code><br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/g62kVG4sRqykiRynCBIu_Screen%20Shot%202013-11-25%20at%202.02.52%20PM.png" alt="Screen Shot 2013-11-25 at 2.02.52 PM.png"><br>接着在 Build Trigger 下选择上 <code>GitHub
+ pull requests builder</code>，默认使用的是 polling，这里也可以配置使用 github 的 hook 来触发，具体可以点击旁边的问号查看帮助<br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/SYHWaxR9QdG14iNmpXeJ_Screen%20Shot%202013-11-25%20at%202.10.02%20PM.png" alt="Screen Shot 2013-11-25 at 2.10.02 PM.png"><br>接着在 Build 下，添加 <code>Execute
+ shell</code> 的 build step，里面写上跑测试的脚本<br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/2u14UI1PQb6lakztF97K_Screen%20Shot%202013-11-25%20at%202.16.21%20PM.png" alt="Screen Shot 2013-11-25 at 2.16.21 PM.png"><br><a href="http://griddiaryapp.com/" target="_blank" rel="external">格志</a>里使用了<br> cocoapods，还有用 bundler 来管理 cocoapods 和其他 Ruby Gems 的版本，所以我们使用下面这段脚本来跑测试</p>
+<pre><code>#!/usr/bin/env zsh --login
+
+rvm use 2.0.0
+ruby --version
+bundle
+bundle --version
+bin/pod
+/usr/bin/xcodebuild -scheme &apos;GridDiary Beta&apos; -workspace GridDiary.xcworkspace -destination &quot;platform=iOS Simulator,name=iPhone Retina (4-inch),OS=latest&quot; -configuration Debug clean build test ONLY_ACTIVE_ARCH=NO
+</code></pre><p>最后在 Post-build Actions 里加入 <code>Set
+ build status on GitHub commit</code><br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/ycHKHjERT7KdjfaVhnFA_Screen%20Shot%202013-11-25%20at%202.21.26%20PM.png" alt="Screen Shot 2013-11-25 at 2.21.26 PM.png"><br>这样，每次在 github 上有 Pull Request 的时候，Jenkins 就会自动运行测试，然后把结果反馈到 GitHub 上<br><img src="http://user-image.logdown.io/user/749/blog/746/post/162202/cJlnp703RDC5K3FGjf9l_Screen%20Shot%202013-11-25%20at%202.24.54%20PM.png" alt="Screen Shot 2013-11-25 at 2.24.54 PM.png"></p>
+<p>###Extra<br>Jenkins 默认的界面惨不忍睹，可以用 <a href="https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin" target="_blank" rel="external">Simple<br> Theme</a> 这个插件来来自定 CSS 和 JavaScript<br>还有一个可以让 console 更不费眼睛一点的 Chrome 插件：<a href="https://github.com/M6Web/JenkinsTerminalColors" target="_blank" rel="external">https://github.com/M6Web/JenkinsTerminalColors</a><br>EOF</p>
+</div></article><div id="base-discus"></div></div></div><footer class="base-footer"><div class="footer-wrapper"><span>Coding的小学生 Using </span><a href="https://github.com/chuguixin/Simple"><span>Simple</span></a><span> Presents For You.</span></div></footer><div class="dom-ready"><script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script><script src="/js/base.js"></script></div></body></html>

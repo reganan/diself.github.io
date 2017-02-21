@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="zh-Hans"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><title>iOS 模拟出一个半透明的ViewController  presentViewController 实现</title><link rel="stylesheet" href="/css/layout.css">
+<link rel="stylesheet" href="/css/main.css"><link rel="shortcut icon" href="/img/header.jpg"></head><body><header class="base-menu"><div class="menu-wrapper"><div class="menu-layout-bg"></div><nav class="menu-content"><ul class="menu-list"><li class="menu-item"><a href="/" class="menu-link">Coding的小学生</a></li><li class="menu-item"><a href="/archives" class="menu-link">目录</a></li><li class="menu-item"><a href="/about" class="menu-link">关于</a></li></ul></nav></div></header><header class="base-mobile-menu"><div class="mobile-menu-wrapper"><div class="menu-layout-bg"></div><nav class="menu-content"><ul class="menu-list"><li class="menu-item"><a href="/" class="menu-link">Coding的小学生</a></li><li class="menu-item"><a href="/archives" class="menu-link">目录</a></li><li class="menu-item"><a href="/about" class="menu-link">关于</a></li></ul></nav><div id="mobile-menu-toggle" class="toggle-menu"><span class="menu-bar"></span><span class="menu-bar"> </span><span class="menu-bar"></span></div></div></header><div class="base-content"><div class="base-content-main"><article class="article-main"><h1 class="article-title">iOS 模拟出一个半透明的ViewController  presentViewController 实现</h1><div class="article-meta"><p class="meta-item meta-time"><span class="meta-item-title">发表于: </span>2015-05-26</p><p class="meta-item meta-category"><span class="meta-item-title">分类于: </span><a href="/categories/技术/" target="_blank" class="category-link">技术</a></p></div><div class="article-content"><p>最近项目有需求, 需要模态初一个半透明的视图, 好多人都碰到这个问题吧, 在目标视图中设置背景颜色然后发现模态动作结束后变成了黑色或者不是半透明的颜色。<br>所以今天来告诉大家解决方案</p>
+<pre><code>- (IBAction)Avtion1:(id)sender {
+
+    TestViewController * testVC = [TestViewController new];
+
+    self.definesPresentationContext = YES; //self is presenting view controller
+    testVC.view.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:.4];
+    testVC.modalPresentationStyle = UIModalPresentationOverCurrentContext;
+
+    [self presentViewController:testVC animated:YES completion:nil];
+}
+</code></pre><ul>
+<li>注意：如果present 一个NavController，不能完全使用上面代码。</li>
+</ul>
+<ul>
+<li><p>(IBAction)pushSecond:(id)sender{<br>  SecondViewController * testVC = [SecondViewControllernew];</p>
+<p>  self.definesPresentationContext = YES; //self is presenting view controller<br>  testVC.view.backgroundColor = [UIColorcolorWithRed:0green:0blue:0alpha:.5];<br>//    testVC.modalPresentationStyle = UIModalPresentationOverCurrentContext;<br>  UINavigationController *nav = [[UINavigationControlleralloc] initWithRootViewController:testVC];<br>  nav.modalPresentationStyle = UIModalPresentationOverCurrentContext;<br>  nav.view.backgroundColor = [UIColorclearColor];<br>  [selfpresentViewController:nav animated:YEScompletion:nil];<br>}</p>
+</li>
+</ul>
+<ul>
+<li><p>definesPresentationContext</p>
+<p>  /*</p>
+<pre><code>Determines which parent view controller&apos;s view should be presented over for presentations of type
+UIModalPresentationCurrentContext.  If no ancestor view controller has this flag set, then the presenter
+will be the root view controller.
+</code></pre><p>  */</p>
+</li>
+<li><p>backgroundColor</p>
+<p>  设置你的背景颜色</p>
+</li>
+<li><p>modalPresentationStyle</p>
+<p>  /*</p>
+<pre><code>Defines the transition style that will be used for this view controller when it is presented modally. Set
+this property on the view controller to be presented, not the presenter.  Defaults to
+UIModalTransitionStyleCoverVertical.
+</code></pre><p>  */</p>
+</li>
+</ul>
+<p>Demo 如下 ：<br><a href="https://github.com/lihongli528628/PreDemo" target="_blank" rel="external">https://github.com/lihongli528628/PreDemo</a></p>
+</div></article><div id="base-discus"></div></div></div><footer class="base-footer"><div class="footer-wrapper"><span>Coding的小学生 Using </span><a href="https://github.com/chuguixin/Simple"><span>Simple</span></a><span> Presents For You.</span></div></footer><div class="dom-ready"><script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script><script src="/js/base.js"></script></div></body></html>
