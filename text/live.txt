@@ -33,7 +33,7 @@
 反法西斯,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ffxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 红高粱,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 台湾D厅美女,http://cdn12.mudu.tv/uploads/29553/640_480/60026163e22b0f14b7d27d0ab29b6222.m3u8,
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1,0
+0,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1,0
 和平的全盛时代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 少年四大名捕,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snsdmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 鹿鼎记,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -66,7 +66,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&si
 隋唐英雄,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 锦绣缘华丽冒险,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 LV美女,http://cdn12.mudu.tv/uploads/29553/640_480/ba0cacc4e6efcdd07e08ad43e4d94914.m3u8,
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hssx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1,0
+0,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hssx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1,0
 武媚娘传奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 拐个皇帝回现代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gghdhxd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 我的老师是传奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wdlsscq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -124,11 +124,7 @@ LIVE生活,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_livemusic_1000&tag=
 亲子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 儿歌,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_erge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 动漫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-,
-,
-,
-,
-title,url
+
 熊出没,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 猪猪侠,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 倒霉熊,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
