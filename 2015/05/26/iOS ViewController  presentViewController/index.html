@@ -13,6 +13,7 @@
 </code></pre><ul>
 <li>注意：如果present 一个NavController，不能完全使用上面代码。</li>
 </ul>
+<a id="more"></a>
 <ul>
 <li><p>(IBAction)pushSecond:(id)sender{<br>  SecondViewController * testVC = [SecondViewControllernew];</p>
 <p>  self.definesPresentationContext = YES; //self is presenting view controller<br>  testVC.view.backgroundColor = [UIColorcolorWithRed:0green:0blue:0alpha:.5];<br>//    testVC.modalPresentationStyle = UIModalPresentationOverCurrentContext;<br>  UINavigationController *nav = [[UINavigationControlleralloc] initWithRootViewController:testVC];<br>  nav.modalPresentationStyle = UIModalPresentationOverCurrentContext;<br>  nav.view.backgroundColor = [UIColorclearColor];<br>  [selfpresentViewController:nav animated:YEScompletion:nil];<br>}</p>

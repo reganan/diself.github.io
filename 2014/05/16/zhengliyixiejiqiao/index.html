@@ -3,7 +3,8 @@
  自适应高度</code>    <code>CGRect</code>frame<br> = webView<code>.frame</code>;<code>``CGSize</code>fittingSize<br> = [webView<code>sizeThatFits</code>:CGSizeZero];<code>``frame</code>.size<code>=
  fittingSize;</code>    <code>webView</code>.frame<code>=
  frame;</code>    <code>//tableView
- reloadData</code>}``<br>```//判断用户是否禁止该App使用设备麦克风<br>//从iOS 7开始，如果App需要用到设备的麦克风，会弹出一个对话框询问用户。这段代码可以检测到用户是否拒绝该App使用麦克风，从而弹出提示框，提示用户去设置那里开启。if ([[AVAudioSession sharedInstance] respondsToSelector:@selector(requestRecordPermission:)]) {<br>        [[AVAudioSession sharedInstance] performSelector:@selector(requestRecordPermission:) withObject:^(BOOL granted) {<br>            if (granted) {<br>                // Microphone enabled code<br>                NSLog(@”Microphone is enabled..”);<br>            }<br>            else {<br>                // Microphone disabled code<br>                NSLog(@”Microphone is disabled..”);</p>
+ reloadData</code>}``<br>```//判断用户是否禁止该App使用设备麦克风<br><a id="more"></a></p>
+<p>//从iOS 7开始，如果App需要用到设备的麦克风，会弹出一个对话框询问用户。这段代码可以检测到用户是否拒绝该App使用麦克风，从而弹出提示框，提示用户去设置那里开启。if ([[AVAudioSession sharedInstance] respondsToSelector:@selector(requestRecordPermission:)]) {<br>        [[AVAudioSession sharedInstance] performSelector:@selector(requestRecordPermission:) withObject:^(BOOL granted) {<br>            if (granted) {<br>                // Microphone enabled code<br>                NSLog(@”Microphone is enabled..”);<br>            }<br>            else {<br>                // Microphone disabled code<br>                NSLog(@”Microphone is disabled..”);</p>
 <pre><code>            // We&apos;re in a background thread here, so jump to main thread to do UI work.
             dispatch_async(dispatch_get_main_queue(), ^{
                 [[[UIAlertView alloc] initWithTitle:@&quot;Microphone Access Denied&quot;

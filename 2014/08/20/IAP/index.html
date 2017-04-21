@@ -6,6 +6,7 @@
 <ol>
 <li>[[SKPaymentQueue defaultQueue] addTransactionObserver:your_observer]; </li>
 </ol>
+<a id="more"></a>
 <p>在恢复或者运行你的app应用时，如果支付队列的内容发生了变化，StoreKit则会自动通知你（注册的）观察者 在应用启动时添加观察者确保它在所有app启动时都会存在，这将允许你的应用能接收到所有的payment queue提醒。</p>
 <p>考虑应用程序这样一个情况，在向队列（如表1）添加支付请求前，应用的 DetailViewController 类创建了一个观察者。这个观察者的存在时间和 DetailViewController 实例一样长。如果出现中断情况，比如网络失败，那么app将不能完成购买流程，而相关的交易仍在支付队列中。当app正常恢复后，它将没有观察者存在，因为在应用被发送至后台时，上述观察者就已经被解除了。因此，你的应用将不会收到队列中的交易通知。</p>
 <p>列表 1.不遵循实现交易观察者最佳实践：当用户尝试购买产品时,应用为 payment queue 添加观察者：</p>

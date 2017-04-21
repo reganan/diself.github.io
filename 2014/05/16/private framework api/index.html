@@ -5,13 +5,8 @@
  = [className``
 UTF8String``];`` </code> <code>``id``theClass
  = objc_getClass(cClassName);`` </code> <code>``unsigned``int``outCount;`` </code> <code>``Method``*m
- =  class_copyMethodList(theClass,&amp;outCount;);`` </code> <code>``NSLog(``@&quot;%d&quot;``,outCount);``   ``for``(``int``i
- = ``0``;
- i&lt;outCount; i++) {``       ``SEL``a
- = method_getName(*(m+i));``       ``NSString``*sn
- = NSStringFromSelector(a);``       ``NSLog(``@&quot;%@&quot;``,sn);</code> <code>``}``
-``*********************************************************************``
-```下面已实验，可以的
+ =  class_copyMethodList(theClass,&amp;outCount;);`` </code> `   <code>NSLog(</code>@”%d”<code>,outCount);</code>   <code>for</code>(<code>int</code>i<br> = <code>0</code>;<br> <a id="more"></a></p>
+<p> i&lt;outCount; i++) {<code>``SEL</code>a<br> = method_getName(<em>(m+i));<code>``NSString</code></em>sn<br> = NSStringFromSelector(a);<code>``NSLog(</code>@”%@”<code>,sn);` ` </code>}<code>``*********************************************************************</code><br><code>``下面已实验，可以的
 装载请注明 http://www.cnblogs.com/xiongwj0910/archive/2012/08/16/2642988.html
 第一天。搜索了一下 “iOS越狱开发” 搜索的东西比较杂乱。总之还是先安装了class－dump工具
 class-dump 这是一个用于导出frameWork文件中私有头文件的工具。想进行越狱开发 必不可少。
