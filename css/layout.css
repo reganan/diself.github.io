@@ -435,7 +435,7 @@ body a {
   transition: color 0.36s ease, background-color 0.36s ease;
 }
 body a:hover {
-  color: #3ebb96;
+  color: #646464;
 }
 body .dom-ready {
   display: none;
@@ -492,11 +492,11 @@ body .dom-ready {
   height: 24px;
   line-height: 24px;
   text-decoration: none;
-  color: #3ebb96;
+  color: #ec7057;
   font-size: 24px;
 }
 .base-menu .menu-wrapper .menu-list .menu-link:hover {
-  color: #2b8268;
+  color: #ec0000;
 }
 @media (min-width: 52rem) {
   .base-menu {
@@ -597,11 +597,11 @@ body .dom-ready {
   height: 24px;
   line-height: 24px;
   text-decoration: none;
-  color: #3ebb96;
+  color: #ec7057;
   font-size: 24px;
 }
 .base-mobile-menu .mobile-menu-wrapper .menu-list .menu-link:hover {
-  color: #2b8268;
+  color: #ec0000;
 }
 @media (max-width: 51rem) {
   .base-mobile-menu {

@@ -36,10 +36,10 @@
   color: #838383;
 }
 .article-main .article-meta .category-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .article-main .article-content p {
-  text-indent: 1.5rem;
+  text-indent: 0rem;
 }
 .article-main .article-content img {
   max-width: 100%;

@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 .archive-main .main-content .time-title .time-title-link:hover + .time-line-bg .time-line-disc {
-  background-color: #3ebb96;
+  background-color: #646464;
 }
 .archive-main .main-content .article-achive-title {
   position: relative;
@@ -46,7 +46,7 @@
   margin-left: 110px;
 }
 .archive-main .main-content .article-achive-title .title-link:hover ~ .time-line-bg .time-line-disc {
-  background-color: #3ebb96;
+  background-color: #646464;
 }
 .archive-main .time-line-bg {
   position: absolute;

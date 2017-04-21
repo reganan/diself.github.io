@@ -15,7 +15,7 @@
   text-decoration: none;
 }
 .post-list-wrapper .article-item .title-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .post-list-wrapper .article-item .article-meta:after {
   content: "";
@@ -42,7 +42,7 @@
   color: #838383;
 }
 .post-list-wrapper .article-item .article-meta .category-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .post-list-wrapper .article-item .article-read-more .read-more-link {
   display: inline-block;
@@ -54,5 +54,5 @@
 }
 .post-list-wrapper .article-item .article-read-more .read-more-link:hover {
   color: #FFF;
-  background-color: #3ebb96;
+  background-color: #ec7057;
 }

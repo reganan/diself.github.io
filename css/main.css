@@ -46,7 +46,7 @@
   text-decoration: none;
 }
 .post-list-wrapper .article-item .title-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .post-list-wrapper .article-item .article-meta:after {
   content: "";
@@ -73,7 +73,7 @@
   color: #838383;
 }
 .post-list-wrapper .article-item .article-meta .category-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .post-list-wrapper .article-item .article-read-more .read-more-link {
   display: inline-block;
@@ -85,7 +85,7 @@
 }
 .post-list-wrapper .article-item .article-read-more .read-more-link:hover {
   color: #FFF;
-  background-color: #3ebb96;
+  background-color: #ec7057;
 }
 code {
   border: 1px solid #e3e3e3;
@@ -280,10 +280,10 @@ pre .deletion {
   color: #838383;
 }
 .article-main .article-meta .category-link:hover {
-  color: #3ebb96;
+  color: #ec7057;
 }
 .article-main .article-content p {
-  text-indent: 1.5rem;
+  text-indent: 0rem;
 }
 .article-main .article-content img {
   max-width: 100%;
@@ -309,7 +309,7 @@ pre .deletion {
   text-decoration: none;
 }
 .archive-main .main-content .time-title .time-title-link:hover + .time-line-bg .time-line-disc {
-  background-color: #3ebb96;
+  background-color: #646464;
 }
 .archive-main .main-content .article-achive-title {
   position: relative;
@@ -336,7 +336,7 @@ pre .deletion {
   margin-left: 110px;
 }
 .archive-main .main-content .article-achive-title .title-link:hover ~ .time-line-bg .time-line-disc {
-  background-color: #3ebb96;
+  background-color: #646464;
 }
 .archive-main .time-line-bg {
   position: absolute;
@@ -391,4 +391,7 @@ pre .deletion {
 }
 .category-main .page-content .category-item .item-date {
   float: right;
+}
+.post-body p {
+  text-indent: 0em;
 }

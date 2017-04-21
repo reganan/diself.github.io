@@ -80,9 +80,9 @@
   height: 24px;
   line-height: 24px;
   text-decoration: none;
-  color: #3ebb96;
+  color: #ec7057;
   font-size: 24px;
 }
 .mobile-menu-wrapper .menu-list .menu-link:hover {
-  color: #2b8268;
+  color: #ec0000;
 }
