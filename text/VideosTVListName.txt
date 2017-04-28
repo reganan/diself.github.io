@@ -1,2 +1,3 @@
-live.txt
+直播列表1.txt
+直播列表2.txt
 Movies_270.txt
