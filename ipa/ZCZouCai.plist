@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sohu.news</string>
+				<string>com.zoucai.lhl</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>sohunews</string>
+				<string>走菜APP</string>
 			</dict>
 		</dict>
 	</array>
