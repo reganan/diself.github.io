@@ -1,6 +1,6 @@
 演唱会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-搞笑综合,http://61.218.59.193:80/live/ch121/playlist.m3u8
-战旗综艺,http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
+甄嬛传,http://live.gslb.letv.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+笑傲江湖,http://live.gslb.letv.com/gslb?stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 战旗猪猪相声,http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
 综艺,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 潜伏,http://live.gslb.letv.com/gslb?stream_id=lb_qianfu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -796,6 +796,8 @@ CCTV-8HD,http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
 爱奇艺开心剧场,http://106.120.175.80:55336/tslive/c18_lb_kaixinjuchang_720p_t10/c18_lb_kaixinjuchang_720p_t10.m3u8
 爱奇艺探索,http://106.120.175.80:55336/tslive/c18_lb_kexuetansuo_720P_t10/c18_lb_kexuetansuo_720P_t10.m3u8
 (火影死神） ,http://dlhls.cdn.zhanqi.tv/zqlive/59285_hhl4d.m3u8
+搞笑综合,http://61.218.59.193:80/live/ch121/playlist.m3u8
+战旗综艺,http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
 搜狐北京卫视,http://gslb.tv.sohu.com/live?cid=346249&ver=seg&ckey=fMZ4Nl-p8VXzb2k7uPS&type=hls&prot=1&sig=xfA1ym5m8HvZpgLhHozn6Ytl6OM.
 搜狐山东卫视,http://gslb.tv.sohu.com/live?cid=346262&ver=seg&ckey=fMZ4NlsP8VXzb2k7uPS&type=hls&prot=1&sig=TrPp81kCyKnDO_pL4M6RrhoEQ0Y.
 搜狐安徽卫视,http://gslb.tv.sohu.com/live?cid=346263&ver=seg&ckey=fMZ4Nlsh8VXzb2k7uPS&type=hls&prot=1&sig=obeVkuC7ll0XKEqyZUh9vS6HwUE.
@@ -10950,9 +10952,7 @@ NBA篮球2,http://live.gslb.letv.com/gslb?stream_id=lb_hk_PL24_5000&tag=live&ext
 追击者,http://live.gslb.letv.com/gslb?stream_id=lb_dianshijia18_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 三八线,http://live.gslb.letv.com/gslb?stream_id=lb_sbx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 红高粱,http://live.gslb.letv.com/gslb?stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-甄嬛传,http://live.gslb.letv.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-笑傲江湖,http://live.gslb.letv.com/gslb?stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-笑傲江湖第三季,http://live.gslb.letv.com/gslb?stream_id=lb_dianshijia21_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 活色生香,http://live.gslb.letv.com/gslb?stream_id=lb_hssx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 隋唐英雄,http://live.gslb.letv.com/gslb?stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 妳好乔安,http://live.gslb.letv.com/gslb?stream_id=lb_nhqa_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
