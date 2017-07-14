@@ -3,371 +3,16 @@
 笑傲江湖,http://live.gslb.letv.com/gslb?stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 战旗猪猪相声,http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
 综艺,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-潜伏,http://live.gslb.letv.com/gslb?stream_id=lb_qianfu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 亮剑,http://live.gslb.letv.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-西游记,http://live.gslb.letv.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-包青天,http://live.gslb.letv.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-伪装者,http://live.gslb.letv.com/gslb?stream_id=lb_wzz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-聊斋新编,http://live.gslb.letv.com/gslb?stream_id=lb_lzxb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-士兵突击,http://live.gslb.letv.com/gslb?stream_id=lb_sbtj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-还珠格格,http://live.gslb.letv.com/gslb?stream_id=lb_hzgg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 琅琊榜,http://live.gslb.letv.com/gslb?stream_id=lb_lyb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-鹿鼎记,http://live.gslb.letv.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=letv&expect=1
 电视剧,http://live.gslb.letv.com/gslb?stream_id=lb_yst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-战旗-韩服 英雄联盟游戏,http://dlhls.cdn.zhanqi.tv/zqlive/76068_G5jGr.m3u8
-完美游戏,http://183.251.61.207/PLTV/88888888/224/3221225894/index.m3u8
-完美游戏,http://live.gslb.letv.com/gslb?stream_id=lb_wmyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-完美游戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
-乐视游戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视游戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-游戏风云,http://183.207.249.7/PLTV/2/224/3221226041/index.m3u8
-游戏风云,http://58.252.186.17:9009/live/chid=120
-游戏风云,http://live-cdn1.smgbb.tv/channels/bbtv/yxfy/flv:sd/live
-游戏风云,http://kk.luoke.net.cn/cq/pytv.php?id=050
-游戏竞技,http://kk.luoke.net.cn/cq/pytv.php?id=076
-游戏竞技,http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551822
-微游戏,rtmp://live121.cnlive.com:1935/live/weiyouxi
-游戏竞技,http://web-play.pptv.com/web-m3u8-300378.m3u8
-综艺|微游戏,rtmp://live121.cnlive.com:1935/live/weiyouxi.direct
-游戏竞技,http://58.252.186.17:9009/live/chid=109
-NewTV完美游戏,http://59.110.139.3:8080/hdtv?id=wmyx
-游戏,http://web-play.pptv.com/web-m3u8-300434.m3u8
-电子竞技,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电子竞技,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-篮球,http://45.116.168.103:1935/live/bs17.stream/playlist.m3u8
-综艺,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺1,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺1,http://live.gslb.letv.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-党建,http://live.gslb.letv.com/gslb?stream_id=lb_dangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-抗战剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kangz_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-戏曲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiqu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-广场舞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-最强大脑,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zqdn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-了不起的挑战,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbqdtz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欢乐喜剧人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武侠剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-都市剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-女性剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nxjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-宫斗剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-军旅剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jljc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-励志剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-催泪剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-神话剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-情景喜剧剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qjxjjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-年代剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-兄弟剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xdjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-姐妹淘剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jmtjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-德甲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_dejia_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-重播之王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-华语电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-日韩电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+搞笑综合,http://61.218.59.193:80/live/ch121/playlist.m3u8
+高清海贼王,http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+蜡笔小新,http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 动漫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-体育,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-娱乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-自制剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-篮球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zuqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高尔夫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_golf_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-网球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wangqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-MV,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-好莱坞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热门美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-侦探美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-经典美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-科幻美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-奇幻美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-单元美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-肥皂美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-罪案烧脑美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-超级英雄美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-律政医务美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-好莱坞,http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1       
-动作电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武侠剧场,http://live.gslb.letv.com/gslb?stream_id=lb_wxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-日韩电影,http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视720P,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视1080P,http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视4K,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-芭莎TV,http://live.gslb.letv.com/gslb?stream_id=lb_bsTV_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-动物世界,http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-花样姐姐,http://live.gslb.letv.com/gslb?stream_id=lb_hyjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-蒙面歌王,http://live.gslb.letv.com/gslb?stream_id=lb_mmgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我是歌手,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-最强大脑,http://live.gslb.letv.com/gslb?stream_id=lb_zqdn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-极限挑战,http://live.gslb.letv.com/gslb?stream_id=lb_lb_jxtz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-北京傲客,http://live.gslb.letv.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-戏曲,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xiqu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-体育+,http://live.gslb.letv.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-体育1,http://live.gslb.letv.com/gslb?stream_id=lb_sports_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-体育2,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tiyu2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-亚洲足球,http://live.gslb.letv.com/gslb?stream_id=lb_yzzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欧洲足球,http://live.gslb.letv.com/gslb?stream_id=lb_ozzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-河南足球,http://live.gslb.letv.com/gslb?stream_id=lb_hnzq_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-国安足球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_guoan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-拳击帕奎奥,http://live.gslb.letv.com/gslb?stream_id=lb_pka_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欧冠,http://live.gslb.letv.com/gslb?stream_id=lb_ouguan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-意甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_yijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-德甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_dejia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-法甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_fajia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-中超,http://live.gslb.letv.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-台球,http://live.gslb.letv.com/gslb?stream_id=lb_taiqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-网球,http://live.gslb.letv.com/gslb?stream_id=lb_wangqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-篮球,http://live.gslb.letv.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跑步,http://live.gslb.letv.com/gslb?stream_id=lb_paobu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-搏击,http://live.gslb.letv.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=letv&expect=1
-汽车,http://live.gslb.letv.com/gslb?stream_id=lb_qiche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-F1赛车,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_F1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-自行车,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zixingche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-橄榄球,http://live.gslb.letv.com/gslb?stream_id=lb_glq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-羽毛球,http://live.gslb.letv.com/gslb?stream_id=lb_ymq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高尔夫,http://live.gslb.letv.com/gslb?stream_id=lb_golf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高尔夫大满贯,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefdmg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高尔夫欧巡赛,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefoxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高尔夫美巡赛,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefmxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-极限运动,http://live.gslb.letv.com/gslb?stream_id=lb_lb_jxyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-广场舞,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-金强篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_jqpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-福建浔兴篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fjxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-佛山龙狮篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fsls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-美剧,http://live.gslb.letv.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-经典美剧,http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-虐恋美剧,http://live.gslb.letv.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高冷美剧,http://live.gslb.letv.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-单元美剧,http://live.gslb.letv.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-肥皂美剧,http://live.gslb.letv.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热门美剧,http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧美剧,http://live.gslb.letv.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-奇幻美剧,http://live.gslb.letv.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-科幻美剧,http://live.gslb.letv.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-罪案烧脑,http://live.gslb.letv.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播美剧,http://live.gslb.letv.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-神话剧场,http://live.gslb.letv.com/gslb?stream_id=lb_shjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-重播之王,http://live.gslb.letv.com/gslb?stream_id=lb_cbzw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-脱单剧场,http://live.gslb.letv.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-催泪剧场,http://live.gslb.letv.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-励志剧场,http://live.gslb.letv.com/gslb?stream_id=lb_lzjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-军旅剧场,http://live.gslb.letv.com/gslb?stream_id=lb_jljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-宫斗剧场,http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-女性剧场,http://live.gslb.letv.com/gslb?stream_id=lb_nxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-都市剧场,http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-年代剧场,http://live.gslb.letv.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-姐妹淘剧场,http://live.gslb.letv.com/gslb?stream_id=lb_jmtjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-律政医务美剧,http://live.gslb.letv.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热血动作美剧,http://live.gslb.letv.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-青春偶像美剧,http://live.gslb.letv.com/gslb?stream_id=lb_qcoxmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-情景喜剧剧场,http://live.gslb.letv.com/gslb?stream_id=lb_qjxjjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-红高粱,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-甄嬛传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-芈月传,http://live.gslb.letv.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-战菁一,http://live.gslb.letv.com/gslb?stream_id=lb_zjy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-小时代,http://live.gslb.letv.com/gslb?stream_id=lb_xsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-孔二狗,http://live.gslb.letv.com/gslb?stream_id=lb_keg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-调皮王妃,http://live.gslb.letv.com/gslb?stream_id=lb_tpwf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-特工卡特,http://live.gslb.letv.com/gslb?stream_id=lb_tgkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-笑傲江湖,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-克拉恋人,http://live.gslb.letv.com/gslb?stream_id=lb_kllr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-活色生香,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hssx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-隋唐英雄,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-封神英雄,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-超级英雄,http://live.gslb.letv.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-凤凰传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-反法西斯,http://live.gslb.letv.com/gslb?stream_id=lb_ffxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-裸婚时代,http://live.gslb.letv.com/gslb?stream_id=lb_lhsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-步步惊心,http://live.gslb.letv.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-满仓进城,http://live.gslb.letv.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武林外传,http://live.gslb.letv.com/gslb?stream_id=lb_wlwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-虎妈猫爸,http://live.gslb.letv.com/gslb?stream_id=lb_hmmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-极品新娘,http://live.gslb.letv.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-挑战者联盟,http://live.gslb.letv.com/gslb?stream_id=lb_tzzlm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-女医明妃传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武媚娘传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欢乐喜剧人,http://live.gslb.letv.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-中国梦之声,http://live.gslb.letv.com/gslb?stream_id=lb_zgmzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-偏偏喜欢你,http://live.gslb.letv.com/gslb?stream_id=lb_lb_ppxhn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-后海不是海,http://live.gslb.letv.com/gslb?stream_id=lb_lb_hhbsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-出彩中国人,http://live.gslb.letv.com/gslb?stream_id=lb_cczgr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-平凡的世界,http://live.gslb.letv.com/gslb?stream_id=lb_pfdsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我看你有戏,http://live.gslb.letv.com/gslb?stream_id=lb_bbhll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-新济公活佛,http://live.gslb.letv.com/gslb?stream_id=lb_xjghf_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-何以笙箫默,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hysxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-北平无战事,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-十周嫁出去,http://live.gslb.letv.com/gslb?stream_id=lb_szjcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-全员加速中,http://live.gslb.letv.com/gslb?stream_id=lb_qyjsz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+金鸡百花微电影展映,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myzqjx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 春节大联欢,http://live.gslb.letv.com/gslb?stream_id=lb_myzqjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-奔跑吧兄弟,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-奔跑吧兄弟第二季,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxddej_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-少年四大名捕,http://live.gslb.letv.com/gslb?stream_id=lb_snsdmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-了不起的挑战,http://live.gslb.letv.com/gslb?stream_id=lb_lbqdtz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-冰与火的青春,http://live.gslb.letv.com/gslb?stream_id=lb_byhdqc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-舌尖上的中国,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-你是我的姐妹,http://live.gslb.letv.com/gslb?stream_id=lb_lb_nswdjm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-王者归来发布会,http://live.gslb.letv.com/gslb?stream_id=lb_jcytht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-少年神探狄仁杰,http://live.gslb.letv.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-因为爱情有奇迹,http://live.gslb.letv.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-锦绣缘华丽冒险,http://live.gslb.letv.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-想明白了再结婚,http://live.gslb.letv.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-抓住彩虹的男人,http://live.gslb.letv.com/gslb?stream_id=lb_zzchdnr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-因为爱情有奇迹,http://live.gslb.letv.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
-和平的全盛时代,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我的老师是传奇,http://live.gslb.letv.com/gslb?stream_id=lb_wdlsscq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-拐个皇帝回现代,http://live.gslb.letv.com/gslb?stream_id=lb_gghdhxd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-大汉情缘之云中歌,http://live.gslb.letv.com/gslb?stream_id=lb_dhqyzyzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐迷,http://live.gslb.letv.com/gslb?stream_id=lb_lm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-戏曲,http://live.gslb.letv.com/gslb?stream_id=lb_xiqu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧,http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-冰雪,http://live.gslb.letv.com/gslb?stream_id=lb_bingxue_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-港产电影,http://live.gslb.letv.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-动作电影,http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-香港电影,http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-华语电影,http://live.gslb.letv.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视720P,http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视4K,http://live.gslb.letv.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视电影,http://live.gslb.letv.com/gslb?stream_id=lb_lsdyt_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-金鹰独播剧场,http://live.gslb.letv.com/gslb?stream_id=lb_mldmm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欢乐季,http://live.gslb.letv.com/gslb?stream_id=lb_2015xjdws_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-八卦头条,http://live.gslb.letv.com/gslb?stream_id=lb_xwzx2_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-天下卫视,http://live.gslb.letv.com/gslb?stream_id=lb_us_CESmiyuezhuan_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-CCTV1HD,http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
-CCTV-1,http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
-广东经济,http://live.gslb.letv.com/gslb?tag=live&ext=m3u8&format=C1S&expect=2&platid=10&splatid=1001&vkit=20160715&stream_id=ws_nfjj_1300
-美食台,http://live.gslb.letv.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-凤凰传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-两生花,http://live.gslb.letv.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-红高粱,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐迷频道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综合,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-1080P,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-自制剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-芈月传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-出彩中国人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cczgr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-舌尖上的中国,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-周星驰影视,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-反法西斯,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ffxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-和平的全盛时代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-裸婚时代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lhsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-西游记,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武林外传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wlwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-日韩电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-极品新娘,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-粤语频道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-锦绣缘华丽冒险,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-拐个皇帝回现代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gghdhxd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-十周嫁出去,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_szjcq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-小时代,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-后海不是海,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hhbsh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-大汉情缘之云中歌,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dhqyzyzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-潜伏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qianfu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-甄嬛传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-鹿鼎记,http://live.gslb.letv.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
-活色生香,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hssx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-封神英雄,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-神犬小七,http://live.gslb.letv.com/gslb?stream_id=lb_sqxq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武媚娘传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-何以笙箫默,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hysxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-奔跑吧兄弟第二季,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxddej_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-和平的全盛时代,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-来自未来的史密特,http://live.gslb.letv.com/gslb?stream_id=lb_lzwldsmt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视垫播,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_backup_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-科教纪录片,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-动物世界,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视动作电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-韩剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_koreatv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-4K,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-北平无战事,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-公开课,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gkk_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我是歌手NEW,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-笑傲江湖,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我看你有戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbhll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欢乐喜剧人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-黄段子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电影片花,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-成龙影视,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-甄嬛传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-纸牌屋,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-红高粱,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-台湾D厅美女,http://cdn12.mudu.tv/uploads/29553/640_480/60026163e22b0f14b7d27d0ab29b6222.m3u8
-0,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-少年四大名捕,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snsdmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-鹿鼎记,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-还珠格格,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-步步惊心,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-亮剑,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-包青天,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-满仓进城,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-因为爱情有奇迹,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-龙门镖局,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-好莱坞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-华语电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-新济公活佛,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-花样姐姐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-想明白了再结婚,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-虎妈猫爸,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hmmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-聊斋新编,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzxb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-何以笙箫默,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hysxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-平凡的世界,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pfdsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-封神英雄,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-隋唐英雄,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-LV美女,http://cdn12.mudu.tv/uploads/29553/640_480/ba0cacc4e6efcdd07e08ad43e4d94914.m3u8
-0,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hssx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武媚娘传奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-我的老师是传奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wdlsscq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-冰与火的青春,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_byhdqc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-琅琊榜,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-伪装者,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wzz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-调皮王妃,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tpwf_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-两生花,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-偏偏喜欢你,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_ppxhn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-你是我的姐妹,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_nswdjm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-克拉恋人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kllr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-挑战者联盟,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tzzlm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-少年神探狄仁杰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-神犬小七,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sqxq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-来自未来的史密特,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-特工卡特,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tgkt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-娱乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-MV,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-古典音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-戏曲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiqu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐节,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yinyuejie_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-格莱美音乐奖,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmyyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-华鼎奖颁奖典礼,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdjbjdl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-郎朗演唱会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_langlang_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-陈奕迅演唱会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-中国摇滚,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-中国民谣,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgmy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-日本流行,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rblx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欧美流行,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omlx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-蒙面歌王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mmgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-环球购物,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hqgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-广场舞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-生活,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shenghuo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-超级超级,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zdyjfc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-炉石传说,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-王者归来发布会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jcytht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 亲子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 儿歌,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_erge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 动漫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -387,219 +32,6 @@ MV,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&s
 变形金刚,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bxjg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 奥特曼,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_atm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 巴啦啦小魔仙,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bllxmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-欧美卡通,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-小众美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热门美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-都市剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-脱单剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-超级英雄,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-跟播美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-经典美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-罪案烧脑,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-科幻美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-奇幻美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-喜剧美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-年代剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-虐恋美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高冷美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-单元美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-肥皂美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-律政医务美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热血动作美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-重播之王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-神话剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-情景喜剧剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qjxjjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-武侠剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-抗战剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kangz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-女性剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-宫斗剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-军旅剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-励志剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-催泪剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-兄弟剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-姐妹淘剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jmtjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-青春偶像美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电影频道,http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
-电影频道,http://vipvideo.ifeng.com/video02/2013/03/18/31282b1a-70a0-427e-b2d0-b1a357281849.mp4?start={start_seconds}
-电影频道,http://vipvideo.ifeng.com/video02/2013/03/29/d14c1212-3551-4848-9819-2cf85e505d93.mp4?start={start_seconds}
-电影频道,http://vipvideo.ifeng.com/video02/2013/03/29/5a4807b2-23f5-43f7-8bd9-6c59dafdebc6.mp4?start={start_seconds}
-电视剧 三妹,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sanmei_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 幻城,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_huancheng_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 亮剑,http://live.gslb.letv.com/gslb?stream_id=lb_liangjian_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-电视剧 猎人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yzdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 三八线,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sbx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-小别离,http://live.gslb.letv.com/gslb?stream_id=lb_xbl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 好先生,http://live.gslb.letv.com/gslb?stream_id=lb_hxs_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-电视剧 小时代,http://live.gslb.letv.com/gslb?stream_id=lb_xsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 芈月传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 鹿鼎记,http://live.gslb.letv.com/gslb?stream_id=lb_ldj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 包青天,http://live.gslb.letv.com/gslb?stream_id=lb_bqt_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-电视剧 纸牌屋,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zpw_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-电视剧 欢乐颂,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb5_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 你好乔安,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nhqa_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 超级英雄,http://live.gslb.letv.com/gslb?stream_id=lb_cjyx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 武林外传,http://live.gslb.letv.com/gslb?stream_id=lb_wlwz_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 隋唐英雄,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-电视剧 极品新娘,http://live.gslb.letv.com/gslb?stream_id=lb_jpxn_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 满仓进城,http://live.gslb.letv.com/gslb?stream_id=lb_mcjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 还珠格格,http://live.gslb.letv.com/gslb?stream_id=lb_hzgg_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 裸婚时代,http://live.gslb.letv.com/gslb?stream_id=lb_lhsd_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 虎妈猫爸,http://live.gslb.letv.com/gslb?stream_id=lb_hmmb_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-电视剧 继父回家,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jfhj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 极品模王,http://live.gslb.letv.com/gslb?stream_id=lb_jpmw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 神犬小七,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sqxq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 克拉恋人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kllr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 步步惊心,http://live.gslb.letv.com/gslb?stream_id=lb_bbjx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 龙门镖局,http://live.gslb.letv.com/gslb?stream_id=lb_lmbj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 幸福归来,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xfgl_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 聊斋新编,http://live.gslb.letv.com/gslb?stream_id=lb_lzxb_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-电视剧 家和万事兴,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jhwsx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 情谜睡美人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qmsmr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 遇见王沥川,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yjwlc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 中国式关系,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgsgx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 平凡的世界,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pfdsj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 偏偏喜欢你,http://live.gslb.letv.com/gslb?stream_id=lb_lb_ppxhn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 新济公活佛,http://live.gslb.letv.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 女医明妃传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nymfz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 爱人的谎言,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hpdqssd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 我叫郝聪明2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 太子妃升职记,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 你是我的姐妹,http://live.gslb.letv.com/gslb?stream_id=lb_lb_nswdjm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 亲爱的翻译官,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 少年神探狄仁杰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 锦绣缘华丽冒险,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 因为爱情有奇迹,http://live.gslb.letv.com/gslb?stream_id=lb_ywaqyqj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-电视剧 想明白了再结婚,http://live.gslb.letv.com/gslb?stream_id=lb_xmblzjh_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧 女不强大天不容,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nbqdtbr_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 寂寞空庭春欲晚,http://live.gslb.letv.com/gslb?stream_id=lb_jmktcyw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 潜伏在黎明之前,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kkxa_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 那年青春我们正好,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 山海经之赤影传说,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nymfz_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 北上广不相信眼泪,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jcytht_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 天才在左疯子在右,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tczzfzzy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 睡在我上铺的兄弟,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_szwspdxd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 那年青春我们正好,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb1_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-电视剧 女总裁的贴身高手,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tczzfzzy_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-影视专辑☆徐克,http://live.gslb.letv.com/gslb?stream_id=lb_xuke_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆海清,http://live.gslb.letv.com/gslb?stream_id=lb_haiqing_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆胡歌,http://live.gslb.letv.com/gslb?stream_id=lb_huge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-影视专辑☆周星驰,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-影视专辑☆章子怡,http://live.gslb.letv.com/gslb?stream_id=lb_zhangziyi_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-影视专辑☆方中信,http://live.gslb.letv.com/gslb?stream_id=lb_fzx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆孙海英,http://live.gslb.letv.com/gslb?stream_id=lb_shy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-影视专辑☆孙骁骁,http://live.gslb.letv.com/gslb?stream_id=lb_sxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-影视专辑☆孙耀威,http://live.gslb.letv.com/gslb?stream_id=lb_syw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-影视专辑☆黄晓明,http://live.gslb.letv.com/gslb?stream_id=lb_hxm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆郑晓龙,http://live.gslb.letv.com/gslb?stream_id=lb_zxl_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆王雷,http://live.gslb.letv.com/gslb?stream_id=lb_wl_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-影视专辑☆张丰毅,http://live.gslb.letv.com/gslb?stream_id=lb_zhangfengyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-影视专辑☆张艺谋,http://live.gslb.letv.com/gslb?stream_id=lb_zym_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-电视剧,http://live.gslb.letv.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-都市剧场,http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-抗战剧场,http://live.gslb.letv.com/gslb?stream_id=lb_kangz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-武侠剧场,http://live.gslb.letv.com/gslb?stream_id=lb_wxjc_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-兄弟剧场,http://live.gslb.letv.com/gslb?stream_id=lb_xdjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-女性剧场,http://live.gslb.letv.com/gslb?stream_id=lb_nxjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-宫斗剧场,http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-军旅剧场,http://live.gslb.letv.com/gslb?stream_id=lb_jljc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-励志剧场,http://live.gslb.letv.com/gslb?stream_id=lb_lzjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-催泪剧场,http://live.gslb.letv.com/gslb?stream_id=lb_cljc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-神话剧场,http://live.gslb.letv.com/gslb?stream_id=lb_shjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-脱单剧场,http://live.gslb.letv.com/gslb?stream_id=lb_tdjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-年代剧场,http://live.gslb.letv.com/gslb?stream_id=lb_ndjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-姐妹淘剧场,http://live.gslb.letv.com/gslb?stream_id=lb_jmtjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-情景喜剧剧场,http://live.gslb.letv.com/gslb?stream_id=lb_qjxjjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-重播之王,http://live.gslb.letv.com/gslb?stream_id=lb_cbzw_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-自制剧,http://live.gslb.letv.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-跟播,http://live.gslb.letv.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-美剧,http://live.gslb.letv.com/gslb?stream_id=lb_meiju_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-经典美剧,http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-热门美剧,http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-科幻美剧,http://live.gslb.letv.com/gslb?stream_id=lb_khmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-喜剧美剧,http://live.gslb.letv.com/gslb?stream_id=lb_xjmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-虐恋美剧,http://live.gslb.letv.com/gslb?stream_id=lb_nlmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-罪案烧脑,http://live.gslb.letv.com/gslb?stream_id=lb_zasn_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-高冷美剧,http://live.gslb.letv.com/gslb?stream_id=lb_glmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-小众美剧,http://live.gslb.letv.com/gslb?stream_id=lb_xzmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-跟播美剧,http://live.gslb.letv.com/gslb?stream_id=lb_gbmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-热血动作美剧,http://live.gslb.letv.com/gslb?stream_id=lb_rxdzmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-律政医务美剧,http://live.gslb.letv.com/gslb?stream_id=lb_lzywmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-CIBN热播剧场,http://218.244.147.118:6389/wtvlive/migu2/618338948_4
-金鸡百花微电影展映,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myzqjx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-娱乐,http://live.gslb.letv.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆1,http://live.gslb.letv.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆欢乐季,http://live.gslb.letv.com/gslb?stream_id=lb_2015xjdws_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆Money,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_showme_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆大咖台,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_daka_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆儿艺话剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ethj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆盖世英雄,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆笑傲江湖,http://live.gslb.letv.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆极限挑战,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_jxtz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆跨界喜剧王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kjxjw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆我们战斗吧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_szjcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆我们相爱吧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆挑战者联盟,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tzzlm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆我看你有戏,http://live.gslb.letv.com/gslb?stream_id=lb_bbhll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆全员加速中,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qyjsz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆欢乐喜剧人,http://live.gslb.letv.com/gslb?stream_id=lb_hlxjr_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-综艺频道☆出彩中国人,http://live.gslb.letv.com/gslb?stream_id=lb_cczgr_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆颜值大挑战,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb9_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆非诚勿扰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwr_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆奔跑吧兄弟,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-综艺频道☆奔跑吧兄弟2,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxddej_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-综艺频道☆我们相爱吧2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-综艺频道☆乐视盛典,http://live.gslb.letv.com/gslb?stream_id=lb_lssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-综艺频道☆华鼎颁奖典礼,http://live.gslb.letv.com/gslb?stream_id=lb_hdjbjdl_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-综艺频道☆我是歌手,http://live.gslb.letv.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆音乐,http://live.gslb.letv.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆MV,http://live.gslb.letv.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆演唱会1,http://live.gslb.letv.com/gslb?stream_id=lb_live_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆演唱会2,http://live.gslb.letv.com/gslb?stream_id=lb_concert_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆音乐节,http://live.gslb.letv.com/gslb?stream_id=lb_yinyuejie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆古典音乐,http://live.gslb.letv.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆嘻哈音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xhyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆爵士音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jsyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆电子音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆重型音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆欧美流行,http://live.gslb.letv.com/gslb?stream_id=lb_omlx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆日本流行,http://live.gslb.letv.com/gslb?stream_id=lb_rblx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆日本音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rbyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆韩流音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆少女时代,http://live.gslb.letv.com/gslb?stream_id=lb_snsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆中国民谣,http://live.gslb.letv.com/gslb?stream_id=lb_zgmy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆中国摇滚,http://live.gslb.letv.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆粤语音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yyyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆生活,http://live.gslb.letv.com/gslb?stream_id=lb_livemusic_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆coldplay,http://live.gslb.letv.com/gslb?stream_id=lb_Coldplay_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆SM-TOWN,http://live.gslb.letv.com/gslb?stream_id=lb_SMTOWN_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆郑钧,http://live.gslb.letv.com/gslb?stream_id=lb_zhengjun_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆汪峰,http://live.gslb.letv.com/gslb?stream_id=lb_wf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆羽泉,http://live.gslb.letv.com/gslb?stream_id=lb_yuquan&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆韩红,http://live.gslb.letv.com/gslb?stream_id=lb_hanhong_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆韩磊,http://live.gslb.letv.com/gslb?stream_id=lb_hl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-音乐频道☆张杰,http://live.gslb.letv.com/gslb?stream_id=lb_zj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆邓紫棋,http://live.gslb.letv.com/gslb?stream_id=lb_dengziqi&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆陈奕迅,http://live.gslb.letv.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆黄绮珊,http://live.gslb.letv.com/gslb?stream_id=lb_hqs_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-音乐频道☆胡彦斌,http://live.gslb.letv.com/gslb?stream_id=lb_hyb_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆萨顶顶,http://live.gslb.letv.com/gslb?stream_id=lb_sadingding_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
-音乐频道☆陈楚生,http://live.gslb.letv.com/gslb?stream_id=lb_ccs_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
-音乐频道☆李宇春,http://live.gslb.letv.com/gslb?stream_id=lb_lyc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆黄义达,http://live.gslb.letv.com/gslb?stream_id=lb_hyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-音乐频道☆刘力扬,http://live.gslb.letv.com/gslb?stream_id=lb_lly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=cs1&expect=1
-音乐频道☆SNH48,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_SNH48_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-音乐频道☆凤凰传奇,http://live.gslb.letv.com/gslb?stream_id=lb_fhcq_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-音乐频道☆格莱美,http://live.gslb.letv.com/gslb?stream_id=lb_glmyyj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-时尚☆时尚,http://live.gslb.letv.com/gslb?stream_id=lb_fengshang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-时尚☆STYLE TV,http://live.gslb.letv.com/gslb?stream_id=lb_StyleTV_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-时尚☆巴萨TV,http://live.gslb.letv.com/gslb?stream_id=lb_bsTV_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-时尚☆乐视时装,http://live.gslb.letv.com/gslb?stream_id=lb_shizhuang_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-纪录片☆4K,http://live.gslb.letv.com/gslb?stream_id=lb_hk_4Kdocumentary_8000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-纪录片☆唐卡,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_tangka_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-纪录片☆二更,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zcyyzb8_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-纪录片☆文化遗产,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_whyc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-纪录片☆舌尖上的中国,http://live.gslb.letv.com/gslb?stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
 动画片☆动漫,http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
 动画片☆猪猪侠,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
 动画片☆倒霉熊,http://live.gslb.letv.com/gslb?stream_id=lb_dmx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
@@ -640,163 +72,221 @@ CIBN热播剧场,http://218.244.147.118:6389/wtvlive/migu2/618338948_4
 少儿频道 蓝迪智慧乐园,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ld_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 少儿频道 MOMO玩玩乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_MOMOwwl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 少儿频道 炫动卡通,http://60.220.196.154/livehls2-cnc.wasu.cn/xdkt/z.m3u8
-台湾频道 壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-香港频道 凤凰资讯HD,http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
-香港频道 凤凰中文HD,http://112.17.0.10:8085/ysten-business/live/fhchinese/yst.m3u8
-香港频道 香港卫视,http://tm.ws.live.cntv.cn/cache/84_/seg0/index.m3u8
-香港频道 亚洲联合卫视,rtmp://tv.unbtv.tv/app_2/ls_1.stream
-香港频道 亚洲联合卫视,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
-香港频道 亚太第一卫视,rtmp://v1.one-tv.com/live/mpegts.stream
+
+战旗-韩服 英雄联盟游戏,http://dlhls.cdn.zhanqi.tv/zqlive/76068_G5jGr.m3u8
+乐视游戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+游戏风云,http://183.207.249.7/PLTV/2/224/3221226041/index.m3u8
+
+游戏竞技,http://www.buteng.net/zb_plugin/lnsyott.php?user=565608500&upt=iy3rF&id=103402551822
+微游戏,rtmp://live121.cnlive.com:1935/live/weiyouxi
+游戏竞技,http://web-play.pptv.com/web-m3u8-300378.m3u8
+综艺|微游戏,rtmp://live121.cnlive.com:1935/live/weiyouxi.direct
+游戏竞技,http://58.252.186.17:9009/live/chid=109
+NewTV完美游戏,http://59.110.139.3:8080/hdtv?id=wmyx
+游戏,http://web-play.pptv.com/web-m3u8-300434.m3u8
+电子竞技,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+篮球,http://45.116.168.103:1935/live/bs17.stream/playlist.m3u8
+综艺,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+党建,http://live.gslb.letv.com/gslb?stream_id=lb_dangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+跟播,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+喜剧电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+抗战剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kangz_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+广场舞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+欢乐喜剧人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+都市剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+宫斗剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+德甲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_dejia_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+华语电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+日韩电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+体育,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+娱乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+自制剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+篮球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zuqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+高尔夫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_golf_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+网球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wangqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+MV,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+好莱坞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+喜剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+跟播,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+好莱坞,http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1       
+动作电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+日韩电影,http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视720P,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视1080P,http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视4K,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+动物世界,http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+体育+,http://live.gslb.letv.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+体育1,http://live.gslb.letv.com/gslb?stream_id=lb_sports_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+体育2,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tiyu2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+亚洲足球,http://live.gslb.letv.com/gslb?stream_id=lb_yzzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+欧洲足球,http://live.gslb.letv.com/gslb?stream_id=lb_ozzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+拳击帕奎奥,http://live.gslb.letv.com/gslb?stream_id=lb_pka_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+欧冠,http://live.gslb.letv.com/gslb?stream_id=lb_ouguan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+意甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_yijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+德甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_dejia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+法甲,http://live.gslb.letv.com/gslb?stream_id=lb_lb_fajia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+中超,http://live.gslb.letv.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+台球,http://live.gslb.letv.com/gslb?stream_id=lb_taiqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+网球,http://live.gslb.letv.com/gslb?stream_id=lb_wangqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+篮球,http://live.gslb.letv.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+跑步,http://live.gslb.letv.com/gslb?stream_id=lb_paobu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+搏击,http://live.gslb.letv.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=letv&expect=1
+汽车,http://live.gslb.letv.com/gslb?stream_id=lb_qiche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+F1赛车,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_F1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+自行车,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zixingche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+橄榄球,http://live.gslb.letv.com/gslb?stream_id=lb_glq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+羽毛球,http://live.gslb.letv.com/gslb?stream_id=lb_ymq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+高尔夫,http://live.gslb.letv.com/gslb?stream_id=lb_golf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+高尔夫大满贯,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefdmg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+高尔夫欧巡赛,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefoxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+高尔夫美巡赛,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gefmxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+极限运动,http://live.gslb.letv.com/gslb?stream_id=lb_lb_jxyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+广场舞,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+金强篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_jqpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+福建浔兴篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fjxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+佛山龙狮篮球,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fsls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+宫斗剧场,http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+都市剧场,http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+甄嬛传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+芈月传,http://live.gslb.letv.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+笑傲江湖,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+凤凰传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+满仓进城,http://live.gslb.letv.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+女医明妃传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+欢乐喜剧人,http://live.gslb.letv.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+奔跑吧兄弟,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+想明白了再结婚,http://live.gslb.letv.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+抓住彩虹的男人,http://live.gslb.letv.com/gslb?stream_id=lb_zzchdnr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+我的老师是传奇,http://live.gslb.letv.com/gslb?stream_id=lb_wdlsscq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+喜剧,http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+冰雪,http://live.gslb.letv.com/gslb?stream_id=lb_bingxue_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+港产电影,http://live.gslb.letv.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+动作电影,http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+香港电影,http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+华语电影,http://live.gslb.letv.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视720P,http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视4K,http://live.gslb.letv.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视电影,http://live.gslb.letv.com/gslb?stream_id=lb_lsdyt_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+天下卫视,http://live.gslb.letv.com/gslb?stream_id=lb_us_CESmiyuezhuan_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+CCTV1HD,http://gslbserv.itv.cmvideo.cn/HDcctv1.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=8813322615956633846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+CCTV-1,http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+美食台,http://live.gslb.letv.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+凤凰传奇,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
+两生花,http://live.gslb.letv.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+综合,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+1080P,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+自制剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+芈月传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+周星驰影视,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+日韩电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+粤语频道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+甄嬛传,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+科教纪录片,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+动物世界,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视动作电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+喜剧电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+跟播,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+4K,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+笑傲江湖,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+欢乐喜剧人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+黄段子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电影片花,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+成龙影视,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+甄嬛传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+台湾D厅美女,http://cdn12.mudu.tv/uploads/29553/640_480/60026163e22b0f14b7d27d0ab29b6222.m3u8
+亮剑,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+满仓进城,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+龙门镖局,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+好莱坞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+华语电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+想明白了再结婚,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+LV美女,http://cdn12.mudu.tv/uploads/29553/640_480/ba0cacc4e6efcdd07e08ad43e4d94914.m3u8
+我的老师是传奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wdlsscq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+琅琊榜,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+两生花,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+娱乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+MV,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+古典音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐节,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yinyuejie_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+陈奕迅演唱会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+中国摇滚,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+中国民谣,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgmy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+环球购物,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hqgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+广场舞,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+都市剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+抗战剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kangz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+宫斗剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电影频道,http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+电视剧 亮剑,http://live.gslb.letv.com/gslb?stream_id=lb_liangjian_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+电视剧 芈月传,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧 欢乐颂,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb5_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧 龙门镖局,http://live.gslb.letv.com/gslb?stream_id=lb_lmbj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+电视剧 太子妃升职记,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧 想明白了再结婚,http://live.gslb.letv.com/gslb?stream_id=lb_xmblzjh_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+电视剧 寂寞空庭春欲晚,http://live.gslb.letv.com/gslb?stream_id=lb_jmktcyw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧 那年青春我们正好,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+电视剧 那年青春我们正好,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb1_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+影视专辑☆周星驰,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+电视剧,http://live.gslb.letv.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+都市剧场,http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+抗战剧场,http://live.gslb.letv.com/gslb?stream_id=lb_kangz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+宫斗剧场,http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+自制剧,http://live.gslb.letv.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+跟播,http://live.gslb.letv.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+CIBN热播剧场,http://218.244.147.118:6389/wtvlive/migu2/618338948_4
+娱乐,http://live.gslb.letv.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+综艺频道☆1,http://live.gslb.letv.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+综艺频道☆笑傲江湖,http://live.gslb.letv.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+综艺频道☆我们相爱吧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+综艺频道☆非诚勿扰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwr_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+综艺频道☆奔跑吧兄弟,http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+综艺频道☆我们相爱吧2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆音乐,http://live.gslb.letv.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆MV,http://live.gslb.letv.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆演唱会2,http://live.gslb.letv.com/gslb?stream_id=lb_concert_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆音乐节,http://live.gslb.letv.com/gslb?stream_id=lb_yinyuejie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆古典音乐,http://live.gslb.letv.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆爵士音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jsyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆电子音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆重型音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆中国民谣,http://live.gslb.letv.com/gslb?stream_id=lb_zgmy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆中国摇滚,http://live.gslb.letv.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆粤语音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yyyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆陈奕迅,http://live.gslb.letv.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+音乐频道☆SNH48,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_SNH48_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+音乐频道☆凤凰传奇,http://live.gslb.letv.com/gslb?stream_id=lb_fhcq_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+时尚☆时尚,http://live.gslb.letv.com/gslb?stream_id=lb_fengshang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+纪录片☆二更,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zcyyzb8_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 香港频道 RTHK31高清,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-VIP频道 7,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
-电影,电影
+香港频道 亚洲联合卫视,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+台湾频道 壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+
 战旗电影1,http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
-战旗电影15,http://dlhls.cdn.zhanqi.tv/zqlive/92089_GUwji.m3u8
-萌萌影院,http://124.165.216.176/wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv?wshc_tag=1&wsiphost=ipdbm
-影视1,rtmp://edge2.everyon.tv/etv2/pld1005
-影视2,rtmp://edge2.everyon.tv/etv2/pld1006
-影视3,rtmp://edge2.everyon.tv/etv2/pld1008
-影视6,rtmp://123.108.164.71/etv2sb/pld61
-影视10,rtmp://123.108.164.71/etv2sb/pld499
-影视11,rtmp://123.108.164.71/etv2sb/pld501
-影视17,rtmp://123.108.164.71/etv2sb/pld991
-影视18,rtmp://123.108.164.71/etv2sb/pld992
-影视19,rtmp://123.108.164.71/etv2sb/pld993
-影视20,rtmp://123.108.164.71/etv2/pld1005
-影视21,rtmp://123.108.164.71/etv2/pld1006
-影视22,rtmp://123.108.164.71/etv2/pld1008
-影视29,rtmp://123.108.164.71/etv2sb/phd501
-SYFY惊悚恐怖电影,p2p://60.249.213.25:9900/57134acd000cd99c017da6c11f7a3de4
-FYI生活,p2p://60.249.213.25:9900/5711ba4500032dfc00d5ac78471a7887
-CI犯罪现场,p2p://60.249.213.25:9900/5711b4dd000a088e00c0900213dc2f0f
-大陆|CCTV04,http://61.216.131.1/live/ch21/playlist.m3u8
-大陆|CCTV13,http://61.216.131.1/live/ch22/playlist.m3u8
-大陆|财富天下,http://125.88.92.166:30001/PLTV/88888956/224/3221227711/1.m3u8
-大陆|CNTV(IPTV3+),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/1.m3u8
-大陆|CNTV(IPTV5+),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/1.m3u8
-大陆|CNTV(IPTV6+),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227889/1.m3u8
-大陆|CNTV(IPTV8+),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227920/1.m3u8
-大陆|CNTV(IPTV谍战剧场),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227917/2.m3u8
-大陆|CNTV(IPTV相声小品),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227861/1.m3u8
-大陆|CNTV(IPTV热播剧场),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227864/1.m3u8
-大陆|CNTV(IPTV少儿动画),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227867/1.m3u8
-大陆|CNTV(IPTV经典电影),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227892/1.m3u8
-大陆|CNTV(IPTV魅力时尚),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227898/1.m3u8
-大陆|CNTV(IPTV收视指南),http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/1.m3u8
-大陆|CNTV爱情喜剧,http://218.203.106.12:5580/CNTVen-business/live/aiqingxj/.m3u8.ts
-大陆|金鹰卡通,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jinyingkaton/.m3u8
-大陆|金鹰卡通,http://112.253.38.62:80/livehls2-cnc.wasu.cn/jykt/z.m3u8
-大陆|金鹰卡通,http://183.207.255.190:80/live/program/live/jykt/1300000/mnf.m3u8
-大陆|炫动卡通,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xuandongkaton/.m3u8
-大陆|炫动卡通,http://112.253.38.62:80/livehls2-cnc.wasu.cn/xdkt/z.m3u8
-大陆|炫动卡通,http://web-play.pptv.com/web-m3u8-300455.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
-大陆|LeTV国产凌凌漆1,http://g3.letv.com/4/22/22/204660615.0.flv?start=0
-大陆|LeTV黄飞鸿之西域,http://g3.letv.cn/14/44/102/2141722611.0.flv
-港澳|优优宝贝,http://112.253.38.62:80/livehls2-cnc.wasu.cn/yybb/z.m3u8
-凤凰视频中文,http://zv.3gv.ifeng.com/live/zhongwen.m3u8
-凤凰视频资讯,http://zv.3gv.ifeng.com/live/zixun.m3u8
-凤凰视频香港,http://zv.3gv.ifeng.com/live/hongkong.m3u8
-CCTV-1HD,http://112.89.38.22/PLTV/88888894/224/3221225489/2.m3u8
-CCTV-2HD,http://112.89.38.22/PLTV/88888894/224/3221225490/2.m3u8
-CCTV-3HD,http://112.89.38.22/PLTV/88888894/224/3221225484/2.m3u8
-CCTV-4HD,http://112.89.38.22/PLTV/88888894/224/3221225485/2.m3u8
-CCTV-5HD,http://112.89.38.21/PLTV/88888894/224/3221225502/2.m3u8
-CCTV-5+HD,http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
-CCTV-6HD,http://112.89.38.29/PLTV/88888894/224/3221225491/2.m3u8
-CCTV-7HD,http://112.89.38.24/PLTV/88888894/224/3221225492/2.m3u8
-CCTV-8HD,http://112.89.38.22/PLTV/88888894/224/3221225493/2.m3u8
-CCTV-9HD,http://112.89.38.22/PLTV/88888894/224/3221225494/2.m3u8
-CCTV-10HD,http://112.89.38.23/PLTV/88888894/224/3221225495/2.m3u8
-CCTV-11HD,http://112.89.38.21/PLTV/88888894/224/3221225496/2.m3u8
-CCTV-12HD,http://112.89.38.21/PLTV/88888894/224/3221225497/2.m3u8
-CCTV-13HD,http://112.89.38.21/PLTV/88888894/224/3221225498/2.m3u8
-CCTV-14HD,http://112.89.38.21/PLTV/88888894/224/3221225499/2.m3u8
-安徽卫视HD,http://112.89.38.27/PLTV/88888894/224/3221225504/2.m3u8
-北京卫视HD,http://112.89.38.22/PLTV/88888894/224/3221225531/2.m3u8
-广东卫视HD,http://112.89.38.24/PLTV/88888894/224/3221225519/2.m3u8
-黑龙江卫视HD,http://112.89.38.26/PLTV/88888894/224/3221225525/2.m3u8
-湖北卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225509/2.m3u8
-湖南卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225486/2.m3u8
-江苏卫视HD,http://112.89.38.22/PLTV/88888894/224/3221225488/2.m3u8
-江西卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225852/2.m3u8
-浙江卫视HD,http://112.89.38.25/PLTV/88888894/224/3221225487/2.m3u8
-深圳卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225521/2.m3u8
-东方卫视HD,http://112.89.38.22/PLTV/88888894/224/3221225508/2.m3u8
-天津卫视HD,http://112.89.38.23/PLTV/88888894/224/3221225530/2.m3u8
-山东卫视HD,http://112.89.38.23/PLTV/88888894/224/3221225528/2.m3u8
-辽宁卫视HD,http://112.89.38.25/PLTV/88888894/224/3221225529/2.m3u8
-四川卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225825/2.m3u8
-重庆卫视HD,http://112.89.38.22/PLTV/88888894/224/3221225507/2.m3u8
-贵州卫视HD,http://112.89.38.21/PLTV/88888894/224/3221225830/2.m3u8
-CCTV-2HD,http://112.89.38.21/PLTV/88888894/224/3221225490/2.m3u8
-CCTV-3HD,http://112.89.38.28/PLTV/88888894/224/3221225484/2.m3u8
-CCTV-4HD,http://112.89.38.26/PLTV/88888894/224/3221225485/2.m3u8
-CCTV-8HD,http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
-凤凰资讯台,http://zv.3gv.ifeng.com/live/zixun800k.m3u8 
-凤凰中文台,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8 
-凤凰香港台,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
-凤凰资讯,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
-香港HKS,http://fms.cntv.lxdns.com/live/flv/channel84.flv
-凤凰卫视,rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
-香港卫视,rtmp://live.hkstv.hk.lxdns.com/live//hks
-熊猫电影1 ,http://pl27.live.panda.tv/live_panda/f28d7d69a0d68afdc3e8fb032dd0c274.flv
-熊猫电影2 ,http://120.197.83.139/pl8.live.panda.tv/live_panda/f81f840257ec00194af0b83e7b16277a.flv
-熊猫电影3 ,http://117.169.69.251/pl8.live.panda.tv/live_panda/b229faeb4be929b447a43815ebe7d7d3.flv
-熊猫电影4 ,http://pl3.live.panda.tv/live_panda/15243c799dc0e115234025817225db31.flv
-熊猫电影5 ,http://pl3.live.panda.tv/live_panda/6d602f1841bf9ff93a0cff816ff8a030.flv
-熊猫电影7 ,http://pl3.live.panda.tv/live_panda/1fb3a69e6d6b12a2a1527a310877c3e4.flv
-熊猫电影8 ,http://pl3.live.panda.tv/live_panda/a4ced5383b9ee15836932330e79b2ae9.flv
-熊猫电影9 ,http://pl3.live.panda.tv/live_panda/8b9f3f397edc6f404169e9f1e90bc1a3.flv
-熊猫电影10 ,http://pl13.live.panda.tv/live_panda/093dd7b804084d09e0cc87ecd29f5608.flv
-熊猫电影11 ,http://pl8.live.panda.tv/live_panda/8dd539552902c2ec70382e90bf67057d.flv
-熊猫电影12 ,http://pl3.live.panda.tv/live_panda/9e244c71f5b0210b29e0d85c18c3c8a3.flv
-熊猫电影14 ,http://pl3.live.panda.tv/live_panda/381e85e01004b31b6cfc9b1f17450159.flv
-熊猫电影15 ,http://pl3.live.panda.tv/live_panda/8283c742812efd9ceed29c4ed7d44303.flv
-熊猫电影16 ,http://pl10.live.panda.tv/live_panda/3cf08b31f7643b7cc7c10829b892b8e7.flv
-熊猫电影17 ,http://pl3.live.panda.tv/live_panda/828d3c99c1141d99baf6beb2f7481ac6.flv
-熊猫电影18 ,http://pl3.live.panda.tv/live_panda/d1bbcca57435b7b7e6dd5abeb7b3dc4a.flv
-熊猫电影19 ,http://120.197.83.139/pl8.live.panda.tv/live_panda/954274b9af90b6b01f5e27459188f837.flv
-熊猫电影20 ,http://124.14.16.186/pl13.live.panda.tv/live_panda/093dd7b804084d09e0cc87ecd29f5608.flv
-熊猫电影21 ,http://pl3.live.panda.tv/live_panda/6cf3e751ab618cb788901a10b6b147d0.flv
-熊猫电影24 ,http://58.250.126.17/pl8.live.panda.tv/live_panda/f3ad3541208aebfc63e37314ef6895cc.flv
-战旗影院3 ,http://dlhls.cdn.zhanqi.tv/zqlive/132468_JylgL.m3u8
-战旗影院12 ,http://dlhls.cdn.zhanqi.tv/zqlive/79718_utuYr.m3u8
-战旗影院13 ,http://wshdl.load.cdn.zhanqi.tv/zqlive/65500_fnGUH.flv
-战旗影院15 ,http://dlhls.cdn.zhanqi.tv/zqlive/43478_CvS2e.m3u8
-战旗影院16 ,http://dlhls.cdn.zhanqi.tv/zqlive/120565_5TBad.m3u8
-战旗影院18 ,http://dlhls.cdn.zhanqi.tv/zqlive/41943_UugSg.m3u8
-战旗影院20 ,http://dlhls.cdn.zhanqi.tv/zqlive/49765_fWNsD.m3u8
-战旗影院23 ,http://dlhls.cdn.zhanqi.tv/zqlive/106395_X2dt1.m3u8
-战旗电影35 ,http://dlhls.cdn.zhanqi.tv/zqlive/59855_yIWkv.m3u8
-战旗电影55 ,http://dlhls.cdn.zhanqi.tv/zqlive/94927_vdxja.m3u8
-战旗电影68 ,http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
-战旗电影74 ,http://dlhls.cdn.zhanqi.tv/zqlive/88086_6m685.m3u8
-战旗彼岸直播二,http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT.m3u8
-战旗彼岸直播四,http://dlhls.cdn.zhanqi.tv/zqlive/37196_7ec44.m3u8
-战旗 ,http://dlhls.cdn.zhanqi.tv/zqlive/30647_JIjP2.m3u8
 战旗|战旗影视 06-韩少女,http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
 战旗|战旗影视 08,http://dlhls.cdn.zhanqi.tv/zqlive/47163_0znQJ.m3u8
-战旗|战旗影视 10,http://dlhls.cdn.zhanqi.tv/zqlive/61362_mZejk.m3u8
 战旗|战旗影视 11,http://dlhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
-战旗|战旗影视 13,http://dlhls.cdn.zhanqi.tv/zqlive/75398_udUdB.m3u8
-战旗|战旗影视 16,http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
-战旗|战旗影视 18,http://dlhls.cdn.zhanqi.tv/zqlive/73622_IIsRY.m3u8
 战旗|战旗影视 19,http://dlhls.cdn.zhanqi.tv/zqlive/33050_DEM7z.m3u8
 战旗|战旗影视 23,http://dlhls.cdn.zhanqi.tv/zqlive/100728_Gz8dX.m3u8
-战旗|战旗影视 31,http://dlhls.cdn.zhanqi.tv/zqlive/141772_u0ic1.m3u8
-战旗|战旗影视 33,http://dlhls.cdn.zhanqi.tv/zqlive/159904_FI923.m3u8
+
 战旗|月山习,http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
-爱奇艺电影,http://106.120.175.80:55336/tslive/c20_lb_dianying_high_t10/c20_lb_dianying_high_t10.m3u8
-爱奇艺动漫,http://106.120.175.80:55336/tslive/c3_lb_dongman_high_t10/c3_lb_dongman_high_t10.m3u8
-爱奇艺综艺,http://106.120.175.80:55336/tslive/c3_lb_zongyi_high_t10/c3_lb_zongyi_high_t10.m3u8
-爱奇艺教育,http://106.120.175.80:55336/tslive/c23_lb_jiaoyu_super_t10/c23_lb_jiaoyu_super_t10.m3u8
-爱奇艺电视剧,http://106.120.175.80:55336/tslive/c2_lb_dianshiju_high_t10/c2_lb_dianshiju_high_t10.m3u8
-爱奇艺纪录片,http://106.120.175.80:55336/tslive/c24_lb_jilupian_high_t10/c24_lb_jilupian_high_t10.m3u8
-爱奇艺家庭剧场,http://106.120.175.80:55336/tslive/c2_lb_jiatingjuchang_720p_t10/c2_lb_jiatingjuchang_720p_t10.m3u8
-爱奇艺开心剧场,http://106.120.175.80:55336/tslive/c18_lb_kaixinjuchang_720p_t10/c18_lb_kaixinjuchang_720p_t10.m3u8
-爱奇艺探索,http://106.120.175.80:55336/tslive/c18_lb_kexuetansuo_720P_t10/c18_lb_kexuetansuo_720P_t10.m3u8
-(火影死神） ,http://dlhls.cdn.zhanqi.tv/zqlive/59285_hhl4d.m3u8
-搞笑综合,http://61.218.59.193:80/live/ch121/playlist.m3u8
+
 战旗综艺,http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
 搜狐北京卫视,http://gslb.tv.sohu.com/live?cid=346249&ver=seg&ckey=fMZ4Nl-p8VXzb2k7uPS&type=hls&prot=1&sig=xfA1ym5m8HvZpgLhHozn6Ytl6OM.
 搜狐山东卫视,http://gslb.tv.sohu.com/live?cid=346262&ver=seg&ckey=fMZ4NlsP8VXzb2k7uPS&type=hls&prot=1&sig=TrPp81kCyKnDO_pL4M6RrhoEQ0Y.
@@ -809,130 +299,76 @@ CCTV-8HD,http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
 搜狐广东卫视,http://gslb.tv.sohu.com/live?cid=346252&ver=seg&ckey=fMZ4NlkP8VXzb2k7uPS&type=hls&prot=1&sig=qdnwPebktY_XgTPeKzJ9efUqIO8.
 演唱会,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1080p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-高清海贼王,http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-蜡笔小新,http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
-恐怖影院,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
-韩剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
 电视剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 自制剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 英超,http://live.gslb.letv.com/gslb?stream_id=lb_lb_yingchao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-小众美剧,http://live.gslb.letv.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-兄弟剧场,http://live.gslb.letv.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-经典鬼片,http://183.57.28.42/pl3.live.panda.tv/live_panda/828d3c99c1141d99baf6beb2f7481ac6.flv?wshc_tag=0&wsts_tag=57343d37&wsid_tag=e71168b&wsiphost=ipdbm
-粤语频道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-嘻哈音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xhyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 摇滚音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ygyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 粤语音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yyyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 电子音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 重型音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-韩流音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-日本音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rbyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-热血动作高清美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-青春偶像高清美剧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 乐视电影2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-欧美电影1,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_movies2_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-欧美电影2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_movies3_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-4K电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_4Kmovie_8000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-4K乐视电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_leshi4K_8000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
 香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
 动作电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-4K纪录片,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_4Kdocumentary_8000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-乐视粤语电影,乐视粤语电影
-动作电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkactionmovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-传奇电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkromance_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-古装电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-喜剧电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkcomedies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
 经典电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-灵异电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_hkghost_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-四大天王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_fourkings_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-甄子丹,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_donnieyan_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-成龙,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_jackiechen_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-周星驰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_stephenchow_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-周润发,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_FatGor_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-乐视韩国,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult1_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-乐视欧美,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult2_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-乐视日本,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult3_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-原�,http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b400000.m3u8
-华视HD,p2p://207.238.82.38:9926/51b97ba8000c65d41bbedb4c56ad01b3
-乐视1,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视2,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视3,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult3_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|欢乐喜剧人,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|LeTV港产,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
-乐视|BTV纪录片HD,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=l
-乐视|BTV军事了望,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jslw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|武侠剧场,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|武侠剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_wxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|电影HD,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|电影HD,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|肥皂高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|肥皂高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|青春偶像高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|律政医务高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|律政医务高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|科幻高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|科幻高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|侦探高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|侦探高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|喜剧高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|喜剧高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|单元高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|单元高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|经典高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|经典高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|跟播高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|热血动作高清美剧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|热血动作高清美剧,	http://live.gslb.letv.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|动作(电影),	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|情景喜剧剧场,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qjxjjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|情景喜剧剧场,	http://live.gslb.letv.com/gslb?stream_id=lb_qjxjjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|重播之王,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|催泪剧场,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|催泪剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|宫斗剧场,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|宫斗剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|爱乐奇,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_alq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|我们相爱吧,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|年代剧场,		http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|年代剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|香港电影,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|戏曲,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xiqu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|励志剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_lzjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|脱单剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|动漫 ,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|动物世界,		http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|都市剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|高冷美剧,		http://live.gslb.letv.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|韩剧,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|好莱坞,		http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|军旅剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_jljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|欢乐喜剧人,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|LeTV港产,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+乐视|BTV纪录片HD,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=l
+乐视|BTV军事了望,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jslw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|武侠剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|武侠剧场,http://live.gslb.letv.com/gslb?stream_id=lb_wxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|电影HD,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|电影HD,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+
+乐视|动作(电影),http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|情景喜剧剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qjxjjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|情景喜剧剧场,http://live.gslb.letv.com/gslb?stream_id=lb_qjxjjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|重播之王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|催泪剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|催泪剧场,http://live.gslb.letv.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|宫斗剧场,	http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|宫斗剧场,	http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|爱乐奇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_alq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|我们相爱吧,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rsdycdej_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|年代剧场,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|年代剧场,http://live.gslb.letv.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|励志剧场,http://live.gslb.letv.com/gslb?stream_id=lb_lzjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|脱单剧场,http://live.gslb.letv.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|动漫 ,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|动物世界,http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|都市剧场,http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|高冷美剧,http://live.gslb.letv.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|韩剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|好莱坞,http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|军旅剧场,http://live.gslb.letv.com/gslb?stream_id=lb_jljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 乐视|乐视LIVE生活,	http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_livemusic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视MV,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视成龙,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_cl_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视电视剧,	http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视儿歌,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_erge_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视风尚,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视古典音乐,	http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_classical_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视郭德纲,	http://live.gslb.letv.com/gslb?stream_id=lb_gdg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|乐视MV,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视成龙,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_cl_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视电视剧,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视儿歌,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_erge_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视风尚,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视古典音乐,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_classical_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视郭德纲,http://live.gslb.letv.com/gslb?stream_id=lb_gdg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 乐视|乐视中国国际时装周,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_shizhuang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视周星驰,	http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视综艺,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|乐视综艺(回放),	http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|女性剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_nxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|欧美卡通,		http://live.gslb.letv.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|热门美剧,		http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|小众美剧,		http://live.gslb.letv.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|兄弟剧场,		http://live.gslb.letv.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|徐克,		http://live.gslb.letv.com/gslb?stream_id=lb_xuke_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|演唱会,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|音乐,		http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_music_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
-乐视|娱乐频道,		http://live.gslb.letv.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|章子怡,		http://live.gslb.letv.com/gslb?stream_id=lb_zhangziyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-乐视|柳岩,		http://live.gslb.letv.com/gslb?stream_id=lb_ly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
-乐视|TV古装剧场,	http://120.210.216.70:8081/ysten-business/live/guzhuangjc/.m3u8
-乐视|TV爱情喜剧,	http://120.210.216.70:8081/ysten-business/live/aiqingxj/.m3u8
-乐视|TV军旅剧场,	http://120.210.216.70:8081/ysten-business/live/junlvjc/.m3u8
-乐视|TV海外剧场,	http://120.210.216.70:8081/ysten-business/live/xiqumd/.m3u8
+乐视|乐视周星驰,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视综艺,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|乐视综艺(回放),http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|女性剧场,http://live.gslb.letv.com/gslb?stream_id=lb_nxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|欧美卡通,http://live.gslb.letv.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|热门美剧,http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|小众美剧,http://live.gslb.letv.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|兄弟剧场,http://live.gslb.letv.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|徐克,http://live.gslb.letv.com/gslb?stream_id=lb_xuke_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|演唱会,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|音乐,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_music_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+乐视|娱乐频道,http://live.gslb.letv.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|章子怡,http://live.gslb.letv.com/gslb?stream_id=lb_zhangziyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视|柳岩,http://live.gslb.letv.com/gslb?stream_id=lb_ly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+乐视|TV古装剧场,http://120.210.216.70:8081/ysten-business/live/guzhuangjc/.m3u8
+乐视|TV爱情喜剧,http://120.210.216.70:8081/ysten-business/live/aiqingxj/.m3u8
+乐视|TV军旅剧场,http://120.210.216.70:8081/ysten-business/live/junlvjc/.m3u8
+乐视|TV海外剧场,http://120.210.216.70:8081/ysten-business/live/xiqumd/.m3u8
 乐视|电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
 乐视|香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
 芬4K电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_4Kmovie_8000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
