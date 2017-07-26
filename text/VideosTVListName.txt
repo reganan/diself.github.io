@@ -1,4 +1,3 @@
-iptv.txt
 GreatLiveList.txt
 PellmellLiveList.txt
 6.1LiveList.txt
