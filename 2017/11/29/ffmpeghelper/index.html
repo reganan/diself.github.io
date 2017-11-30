@@ -50,7 +50,10 @@
 </tbody>
 </table>
 <h3 id="参数："><a href="#参数：" class="headerlink" title="参数："></a>参数：</h3><p>FFmpeg可使用众多参数，参数内容会根据ffmpeg版本而有差异，使用前建议先参考参数及编解码器的叙述。此外，参数明细可用ffmpeg -h显示；编解码器名称等明细可用ffmpeg -formats显示。<br>下列为较常使用的参数：</p>
-<h4 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h4><table>
+<ol>
+<li>主要参数</li>
+</ol>
+<table>
 <thead>
 <tr>
 <th>【参数】</th>
@@ -98,7 +101,10 @@
 </tr>
 </tbody>
 </table>
-<h4 id="视频参数"><a href="#视频参数" class="headerlink" title="视频参数"></a>视频参数</h4><table>
+<ol>
+<li>视频参数</li>
+</ol>
+<table>
 <thead>
 <tr>
 <th>【参数】</th>
@@ -158,7 +164,10 @@
 </tr>
 </tbody>
 </table>
-<h4 id="声音参数"><a href="#声音参数" class="headerlink" title="声音参数"></a>声音参数</h4><table>
+<ol>
+<li>声音参数</li>
+</ol>
+<table>
 <thead>
 <tr>
 <th>【参数】</th>
@@ -227,6 +236,38 @@
 <p>注意：需要编译时把相应的解码器编译。例如PNG图片。需要编译PNG解码器。Ffmpeg才能够识别图片文件，把图片做为一 种流。注意：PNG图片必须含有alpha通道。Overlay过滤器是根据alpha通道来进行复盖的。所以，你想要透明效果时，须先制做一张透明的PNG图片。</p>
 <p>output：输出流</p>
 <p>也可以用下面命令：  ffmpeg -i input  -vf ‘movie=long.png[logo];[in][logo]overlay=10:10[out]’ output     ，movie过滤器用来把两个流组合成一个流。它有一个输出PAD。</p>
+<h3 id="字幕文件转换"><a href="#字幕文件转换" class="headerlink" title="字幕文件转换"></a>字幕文件转换</h3><p>字幕文件有很多种，常见的有 .srt , .ass 文件等,下面使用FFmpeg进行相互转换。</p>
+<ul>
+<li>将.srt文件转换成.ass文件</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i subtitle.srt subtitle.ass</div></pre></td></tr></table></figure>
+<p>将.ass文件转换成.srt文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i subtitle.ass subtitle.srt</div></pre></td></tr></table></figure></p>
+<p>集成字幕，选择播放<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i input.mp4 -i subtitles.srt -c:s mov_text -c:v copy -c:a copy output.mp4</div></pre></td></tr></table></figure></p>
+<p>解析：<br>-c:s 设置字幕解码器。未设置是字幕解码与输入文件相同<br>-c:v 设置视频视频编解码器，未设置时则使用与输入文件相同之编解码器<br>-c:a 设置声音编解码器，未设置时与视频相同，使用与输入文件相同之编解码器。</p>
+<ul>
+<li>嵌入SRT字幕到视频文件</li>
+</ul>
+<p>单独SRT字幕<br>字幕文件为subtitle.srt<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i video.avi -vf subtitles=subtitle.srt out.avi</div></pre></td></tr></table></figure></p>
+<p>嵌入在MKV等容器的字幕<br>将video.mkv中的字幕（默认）嵌入到out.avi文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i video.mkv -vf subtitles=video.mkv out.avi</div></pre></td></tr></table></figure></p>
+<p>将video.mkv中的字幕（第二个）嵌入到out.avi文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i video.mkv -vf subtitles=video.mkv:si=1 out.avi</div></pre></td></tr></table></figure></p>
+<p>嵌入ASS字幕到视频文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i video.avi -vf &quot;ass=subtitle.ass&quot; out.avi</div></pre></td></tr></table></figure></p>
+<p>不能加载fontconfig文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">Fontconfig error: Cannot load default config file</div><div class="line">[Parsed_ass_0 @ 0000000002bfa3e0] No usable fontconfig configuration file found,</div><div class="line"> using fallback.</div><div class="line">Fontconfig error: Cannot load default config file</div></pre></td></tr></table></figure></p>
+<p>出现类似错误的原因是无法加载字体配置文件。</p>
+<hr>
+<p>其他常用命令</p>
+<ol>
+<li><p>提取视频 （Extract Video）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i Life.of.Pi.has.subtitles.mkv -vcodec copy –an  videoNoAudioSubtitle.mp4</div></pre></td></tr></table></figure>
+<p>参考：<a href="http://www.cnblogs.com/wainiwann/p/4128154.html" target="_blank" rel="external">http://www.cnblogs.com/wainiwann/p/4128154.html</a></p>
+</li>
+<li><p>提取音频（Extract Audio）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i Life.of.Pi.has.subtitles.mkv -vn -acodec copy audio.ac3</div></pre></td></tr></table></figure>
+<p>参考：<a href="http://stackoverflow.com/questions/9913032/ffmpeg-to-extract-audio-from-video" target="_blank" rel="external">http://stackoverflow.com/questions/9913032/ffmpeg-to-extract-audio-from-video</a></p>
+</li>
+<li>提取字幕（Extract Subtitle）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ffmpeg -i Life.of.Pi.has.subtitles.mkv-map 0:s:0 sub1.srt</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<p>参考：<a href="http://superuser.com/questions/583393/extract-subtitle-from-video" target="_blank" rel="external">http://superuser.com/questions/583393/extract-subtitle-from-video</a></p>
 <hr>
 <hr>
 </div><div class="post-footer"><div class="meta"><div class="info"><i class="fa fa-sun-o"></i><span class="date">2017-11-29</span><i class="fa fa-tag"></i><a href="/categories/技术/" title="技术" class="tag">技术 </a><a href="/tags/ffmpeg-player/" title="ffmpeg, player" class="tag">ffmpeg, player </a></div></div></div></div><div class="pagination"><ul class="clearfix"></ul></div></div></div></div></div><script src="/js/jquery.js"></script><script src="/js/jquery-migrate-1.2.1.min.js"></script><script src="/js/jquery.appear.js"></script></body></html>
