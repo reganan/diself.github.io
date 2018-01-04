@@ -1,19 +1,19 @@
 <!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="author" content="Author lihongli,592658688@qq.com"><title>ReactiveCocoa入门教程——第一部分 · iOdeFog</title><meta name="description" content="转载自：http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part1本文翻译自RayWenderlich  ReactiveCocoa Tutorial – The Definitive Introduction: Part 1/2
-作为一个"><meta name="keywords" content="Hexo,HTML,CSS,iOS,Max,lihongli"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="renderer" content="webkit"><link rel="short icon" type="image/x-icon"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/blog_basic.css"><link rel="stylesheet" href="/css/font-awesome.min.css"><link rel="alternate" type="application/atom+xml" title="ATOM 1.0" href="/atom.xml"></head><body><div class="sidebar animated fadeInDown"><div class="logo-title"><div class="title"><img src="/./images/logo.png" style="width:127px;"><h3 title=""><a href="/">iOdeFog</a></h3><div class="description"><p>iOdeFog</p></div></div></div><ul class="social-links"><li><a href="http://github.com/iOdeFog"><i class="fa fa-github"></i></a></li></ul><div class="footer"><a target="_blank" href="/"><span>Theme by </span></a><a href="https://www.caicai.me"> CaiCai </a><span>&</span><a href="https://github.com/Ben02/hexo-theme-Anatole"> Ben</a><div class="by_farbox"><a href="https://hexo.io/zh-cn/" target="_blank">Proudly published with Hexo&#65281;</a></div></div></div><div class="main"><div class="page-top animated fadeInDown"><div class="nav"><li><a href="/">首页</a></li><li><a href="/archives">归档</a></li><li><a href="/about">关于</a></li><li><a href="/links">链接</a></li></div><div class="information"><div class="back_btn"><li><a onclick="window.history.go(-1)" class="fa fa-chevron-left"> </a></li></div><div class="avatar"><img src="/images/header.png"></div></div></div><div class="autopagerize_page_element"><div class="content"><div class="post-page"><div class="post animated fadeInDown"><div class="post-title"><h3><a>ReactiveCocoa入门教程——第一部分</a></h3></div><div class="post-content"><p>转载自：<a href="http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part1" target="_blank" rel="external">http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part1</a>本文翻译自RayWenderlich  <a href="http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1" target="_blank" rel="external">ReactiveCocoa<br> Tutorial – The Definitive Introduction: Part 1/2</a></p>
-<p>作为一个iOS开发者，你写的每一行代码几乎都是在响应某个事件，例如按钮的点击，收到网络消息，属性的变化（通过KVO）或者用户位置的变化（通过CoreLocation）。但是这些事件都用不同的方式来处理，比如action、delegate、KVO、callback等。<a href="https://github.com/ReactiveCocoa/ReactiveCocoa" target="_blank" rel="external">ReactiveCocoa</a>为事件定义了一个标准接口，从而可以使用一些基本工具来更容易的连接、过滤和组合。</p>
+作为一个"><meta name="keywords" content="Hexo,HTML,CSS,iOS,Max,lihongli"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="renderer" content="webkit"><link rel="short icon" type="image/x-icon"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/blog_basic.css"><link rel="stylesheet" href="/css/font-awesome.min.css"><link rel="alternate" type="application/atom+xml" title="ATOM 1.0" href="/atom.xml"></head><body><div class="sidebar animated fadeInDown"><div class="logo-title"><div class="title"><img src="/./images/logo.png" style="width:127px;"><h3 title=""><a href="/">iOdeFog</a></h3><div class="description"><p>iOdeFog</p></div></div></div><ul class="social-links"><li><a href="http://github.com/iOdeFog"><i class="fa fa-github"></i></a></li></ul><div class="footer"><a target="_blank" href="/"><span>Theme by </span></a><a href="https://www.caicai.me"> CaiCai </a><span>&</span><a href="https://github.com/Ben02/hexo-theme-Anatole"> Ben</a><div class="by_farbox"><a href="https://hexo.io/zh-cn/" target="_blank">Proudly published with Hexo&#65281;</a></div></div></div><div class="main"><div class="page-top animated fadeInDown"><div class="nav"><li><a href="/">首页</a></li><li><a href="/archives">归档</a></li><li><a href="/about">关于</a></li><li><a href="/links">链接</a></li></div><div class="information"><div class="back_btn"><li><a onclick="window.history.go(-1)" class="fa fa-chevron-left"> </a></li></div><div class="avatar"><img src="/images/header.png"></div></div></div><div class="autopagerize_page_element"><div class="content"><div class="post-page"><div class="post animated fadeInDown"><div class="post-title"><h3><a>ReactiveCocoa入门教程——第一部分</a></h3></div><div class="post-content"><p>转载自：<a href="http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part1" target="_blank" rel="noopener">http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part1</a>本文翻译自RayWenderlich  <a href="http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1" target="_blank" rel="noopener">ReactiveCocoa<br> Tutorial – The Definitive Introduction: Part 1/2</a></p>
+<p>作为一个iOS开发者，你写的每一行代码几乎都是在响应某个事件，例如按钮的点击，收到网络消息，属性的变化（通过KVO）或者用户位置的变化（通过CoreLocation）。但是这些事件都用不同的方式来处理，比如action、delegate、KVO、callback等。<a href="https://github.com/ReactiveCocoa/ReactiveCocoa" target="_blank" rel="noopener">ReactiveCocoa</a>为事件定义了一个标准接口，从而可以使用一些基本工具来更容易的连接、过滤和组合。</p>
 <a id="more"></a>
 <p>如果你对上面说的还比较疑惑，那还是继续往下看吧。</p>
-<p>ReactiveCocoa结合了几种编程风格：<br>函数式编程（<a href="http://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="external">Functional<br> Programming</a>）：使用高阶函数，例如函数用其他函数作为参数。<br>响应式编程（<a href="http://en.wikipedia.org/wiki/Reactive_programming" target="_blank" rel="external">Reactive<br> Programming</a>）：关注于数据流和变化传播。</p>
+<p>ReactiveCocoa结合了几种编程风格：<br>函数式编程（<a href="http://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="noopener">Functional<br> Programming</a>）：使用高阶函数，例如函数用其他函数作为参数。<br>响应式编程（<a href="http://en.wikipedia.org/wiki/Reactive_programming" target="_blank" rel="noopener">Reactive<br> Programming</a>）：关注于数据流和变化传播。</p>
 <p>所以，你可能听说过ReactiveCocoa被描述为函数响应式编程（FRP）框架。</p>
 <p>这就是这篇教程要讲的内容。编程范式是个不错的主题，但是本篇教程的其余部分将会通过一个例子来实践。 </p>
-<p>##Reactive Playground<br>通过这篇教程，一个简单的范例应用Reactive Playground ，你将会了解到响应式编程。下载<a href="http://cdn2.raywenderlich.com/wp-content/uploads/2014/01/ReactivePlayground-Starter.zip" target="_blank" rel="external">初始工程</a>，然后编译运行一下确保你已经把一切都设置正确了。</p>
+<p>##Reactive Playground<br>通过这篇教程，一个简单的范例应用Reactive Playground ，你将会了解到响应式编程。下载<a href="http://cdn2.raywenderlich.com/wp-content/uploads/2014/01/ReactivePlayground-Starter.zip" target="_blank" rel="noopener">初始工程</a>，然后编译运行一下确保你已经把一切都设置正确了。</p>
 <p>Reactive Playground是一个非常简单的应用，它为用户展示了一个登录页。在用户名框输入user，在密码框输入password，然后你就能看到有一只可爱小猫咪的欢迎页了。<br><img src="http://cdn4.raywenderlich.com/wp-content/uploads/2014/01/ReactivePlaygroundStarter.jpg" alt=""><br>呀，真是可爱啊。</p>
 <p>现在可以花一些时间来看一下初始工程的代码。很简单，用不了多少时间。</p>
 <p>打开RWViewController.m看一下。你多快能找到控制登录按钮是否可用的条件？判断显示/隐藏登录失败label的条件是什么？在这个相对简单的例子里，可能只用一两分钟就能回答这些问题。但是对于更复杂的例子，这些所花的时间可能就比较多了。</p>
 <p>使用ReactiveCocoa，可以使应用的基本逻辑变得相当简洁。是时候开始啦。</p>
-<p>##添加ReactiveCocoa框架<br>添加ReactiveCocoa框架最简单的方法就是用<a href="http://cocoapods.org/" target="_blank" rel="external">CocoaPods</a>。如果你从没用过CocoaPods，那还是先去看看<a href="http://www.raywenderlich.com/?p=12139" target="_blank" rel="external">CocoaPods简介</a>这篇教程吧。请至少看完教程中初始化的步骤，这样你才能安装框架。</p>
+<p>##添加ReactiveCocoa框架<br>添加ReactiveCocoa框架最简单的方法就是用<a href="http://cocoapods.org/" target="_blank" rel="noopener">CocoaPods</a>。如果你从没用过CocoaPods，那还是先去看看<a href="http://www.raywenderlich.com/?p=12139" target="_blank" rel="noopener">CocoaPods简介</a>这篇教程吧。请至少看完教程中初始化的步骤，这样你才能安装框架。</p>
 <blockquote>
-<p>注意：如果不想用CocoaPods，你仍然可以使用ReactiveCocoa，具体查看Github文档中<a href="https://github.com/ReactiveCocoa/ReactiveCocoa#importing-reactivecocoa" target="_blank" rel="external">引入ReactiveCocoa</a>的步骤描述。<br>译注：我就是不喜欢用CocoaPods的那波人。所以我首先使用了Github上提供的方法，但是在第二步执行bootstrap时提示缺少xctool，我就果断放弃了，还是乖乖用CocoaPods吧。</p>
+<p>注意：如果不想用CocoaPods，你仍然可以使用ReactiveCocoa，具体查看Github文档中<a href="https://github.com/ReactiveCocoa/ReactiveCocoa#importing-reactivecocoa" target="_blank" rel="noopener">引入ReactiveCocoa</a>的步骤描述。<br>译注：我就是不喜欢用CocoaPods的那波人。所以我首先使用了Github上提供的方法，但是在第二步执行bootstrap时提示缺少xctool，我就果断放弃了，还是乖乖用CocoaPods吧。</p>
 </blockquote>
 <p>具体怎么使用CocoaPods安装就不详细讲解了。 </p>
 <p>##开动<br>就像在介绍中提到的，RAC为应用中发生的不同事件流提供了一个标准接口。在ReactiveCocoa术语中这个叫做信号（signal），由RACSignal类表示。</p>
@@ -79,9 +79,9 @@
 10. [filteredUsername subscribeNext:^(id x){
 11.   NSLog(@&quot;%@&quot;, x);
 12. }];
-</code></pre><p>RACSignal的每个操作都会返回一个RACsignal，这在术语上叫做连贯接口（<a href="http://en.wikipedia.org/wiki/Fluent_interface" target="_blank" rel="external">fluent<br> interface</a>）。这个功能可以让你直接构建管道，而不用每一步都使用本地变量。</p>
+</code></pre><p>RACSignal的每个操作都会返回一个RACsignal，这在术语上叫做连贯接口（<a href="http://en.wikipedia.org/wiki/Fluent_interface" target="_blank" rel="noopener">fluent<br> interface</a>）。这个功能可以让你直接构建管道，而不用每一步都使用本地变量。</p>
 <blockquote>
-<p>注意：ReactiveCocoa大量使用block。如果你是block新手，你可能想看看Apple官方的<a href="https://developer.apple.com/library/ios/documentation/cocoa/Conceptual/Blocks/Articles/00_Introduction.html" target="_blank" rel="external">block编程指南</a>。如果你熟悉block，但是觉得block的语法有些奇怪和难记，你可能会想看看这个有趣又实用的网页<a href="http://fuckingblocksyntax.com/" target="_blank" rel="external">f<strong>*</strong>gblocksyntax.com</a>。</p>
+<p>注意：ReactiveCocoa大量使用block。如果你是block新手，你可能想看看Apple官方的<a href="https://developer.apple.com/library/ios/documentation/cocoa/Conceptual/Blocks/Articles/00_Introduction.html" target="_blank" rel="noopener">block编程指南</a>。如果你熟悉block，但是觉得block的语法有些奇怪和难记，你可能会想看看这个有趣又实用的网页<a href="http://fuckingblocksyntax.com/" target="_blank" rel="noopener">f<strong>*</strong>gblocksyntax.com</a>。</p>
 <p>##类型转换<br>如果你之前把代码分成了多个步骤，现在再把它改回来吧。。。。。。。。</p>
 <pre><code>1. [[self.usernameTextField.rac_textSignal
 2.   filter:^BOOL(id value){
@@ -127,7 +127,7 @@
 <p>来看下面的图片：<br><img src="http://cdn2.raywenderlich.com/wp-content/uploads/2014/01/FilterAndMapPipeline.png" alt=""></p>
 <p>能看到map操作之后的步骤收到的都是NSNumber实例。你可以使用map操作来把接收的数据转换成想要的类型，只要它是个对象。</p>
 <blockquote>
-<p>注意：在上面的例子中text.length返回一个NSUInteger，是一个基本类型。为了将它作为事件的内容，NSUInteger必须被封装。幸运的是<a href="https://www.mikeash.com/pyblog/friday-qa-2012-06-22-objective-c-literals.html" target="_blank" rel="external">Objective-C<br> literal syntax</a>提供了一种简单的方法来封装——@ (text.length)。</p>
+<p>注意：在上面的例子中text.length返回一个NSUInteger，是一个基本类型。为了将它作为事件的内容，NSUInteger必须被封装。幸运的是<a href="https://www.mikeash.com/pyblog/friday-qa-2012-06-22-objective-c-literals.html" target="_blank" rel="noopener">Objective-C<br> literal syntax</a>提供了一种简单的方法来封装——@ (text.length)。</p>
 </blockquote>
 <p>现在差不多是时候用所学的内容来更新一下ReactivePlayground应用了。你可以把之前的添加代码都删除了。。。。。。</p>
 <p>##创建有效状态信号<br>首先要做的就是创建一些信号，来表示用户名和密码输入框中的输入内容是否有效。把下面的代码添加到RWViewController.m中viewDidLoad的最后面：</p>
@@ -188,7 +188,7 @@
 5.                     }];
 </code></pre><p>上面的代码使用combineLatest:reduce:方法把validUsernameSignal和validPasswordSignal产生的最新的值聚合在一起，并生成一个新的信号。每次这两个源信号的任何一个产生新值时，reduce<br> block都会执行，block的返回值会发给下一个信号。</p>
 <blockquote>
-<p>注意：RACsignal的这个方法可以聚合任意数量的信号，reduce block的参数和每个源信号相关。ReactiveCocoa有一个工具类<a href="https://github.com/ReactiveCocoa/ReactiveCocoa/blob/master/ReactiveCocoaFramework/ReactiveCocoa/RACBlockTrampoline.m?source=c" target="_blank" rel="external">RACBlockTrampoline</a>，它在内部处理reduce<br> block的可变参数。实际上在ReactiveCocoa的实现中有很多隐藏的技巧，值得你去看看。</p>
+<p>注意：RACsignal的这个方法可以聚合任意数量的信号，reduce block的参数和每个源信号相关。ReactiveCocoa有一个工具类<a href="https://github.com/ReactiveCocoa/ReactiveCocoa/blob/master/ReactiveCocoaFramework/ReactiveCocoa/RACBlockTrampoline.m?source=c" target="_blank" rel="noopener">RACBlockTrampoline</a>，它在内部处理reduce<br> block的可变参数。实际上在ReactiveCocoa的实现中有很多隐藏的技巧，值得你去看看。</p>
 </blockquote>
 <p>现在已经有了合适的信号，把下面的代码添加到viewDidLoad的末尾。这会把信号和按钮的enabled属性绑定。</p>
 <pre><code>1. [signUpActiveSignal subscribeNext:^(NSNumber*signupActive){
@@ -335,13 +335,13 @@
 <p>之前的管道图就更新成下面这样的：<br><img src="http://cdn3.raywenderlich.com/wp-content/uploads/2014/01/SideEffects.png" alt=""></p>
 <p>编译运行，确保登录按钮的可点击状态和预期的一样。</p>
 <p>现在所有的工作都已经完成了，这个应用已经是响应式的啦。</p>
-<p>如果你中途哪里出了问题，可以下载<a href="http://cdn1.raywenderlich.com/wp-content/uploads/2014/01/ReactivePlayground-Final.zip" target="_blank" rel="external">最终的工程</a>（依赖库都有），或者在<a href="https://github.com/ColinEberhardt/RWReactivePlayground" target="_blank" rel="external">Github</a>上找到这份代码，教程中的每一次编译运行都有对应的commit。</p>
+<p>如果你中途哪里出了问题，可以下载<a href="http://cdn1.raywenderlich.com/wp-content/uploads/2014/01/ReactivePlayground-Final.zip" target="_blank" rel="noopener">最终的工程</a>（依赖库都有），或者在<a href="https://github.com/ColinEberhardt/RWReactivePlayground" target="_blank" rel="noopener">Github</a>上找到这份代码，教程中的每一次编译运行都有对应的commit。</p>
 <blockquote>
 <p>注意：在异步操作执行的过程中禁用按钮是一个常见的问题，ReactiveCocoa也能很好的解决。RACCommand就包含这个概念，它有一个enabled信号，能让你把按钮的enabled属性和信号绑定起来。你也许想试试这个类。</p>
 <p>##总结<br>希望本教程为你今后在自己的应用中使用ReactiveCocoa打下了一个好的基础。你可能需要一些练习来熟悉这些概念，但就像是语言或者编程，一旦你夯实基础，用起来也就很简单了。ReactiveCocoa的核心就是信号，而它不过就是事件流。还能再更简单点吗？</p>
 </blockquote>
 <p>在使用ReactiveCocoa后，我发现了一个有趣的事情，那就是你可以用很多种不同的方法来解决同一个问题。你可以用教程中的例子试试，调整一下信号，改改信号的分割和聚合。</p>
 <p>ReactiveCocoa的主旨是让你的代码更简洁易懂，这值得多想想。我个人认为，如果逻辑可以用清晰的管道、流式语法来表示，那就很好理解这个应用到底干了什么了。</p>
-<p>在本系列教程的<a href="http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part2" target="_blank" rel="external">第二部分</a>，你将会学到诸如错误处理、在不同线程中执行代码等高级用法。</p>
+<p>在本系列教程的<a href="http://benbeng.leanote.com/post/ReactiveCocoaTutorial-part2" target="_blank" rel="noopener">第二部分</a>，你将会学到诸如错误处理、在不同线程中执行代码等高级用法。</p>
 <p>（第一部分完）</p>
 </div><div class="post-footer"><div class="meta"><div class="info"><i class="fa fa-sun-o"></i><span class="date">2015-08-17</span><i class="fa fa-tag"></i><a href="/categories/技术/" title="技术" class="tag">技术 </a></div></div></div></div><div class="pagination"><ul class="clearfix"></ul></div></div></div></div></div><script src="/js/jquery.js"></script><script src="/js/jquery-migrate-1.2.1.min.js"></script><script src="/js/jquery.appear.js"></script></body></html>
